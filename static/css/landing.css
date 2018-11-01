@@ -1,0 +1,509 @@
+/* make keyframes that tell the start state and the end state of our object */
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-moz-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadeInTwo {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.95;
+  }
+}
+@-moz-keyframes fadeInTwo {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.95;
+  }
+}
+/* fade in animation for main logo*/
+@media only screen and (min-width: 820px) {
+  .fade-in {
+    opacity: 0;
+/* make things invisible upon start */
+    -webkit-animation: fadeInTwo ease-in 1;
+    -moz-animation: fadeInTwo ease-in 1;
+    animation: fadeInTwo ease-in 1;
+    -webkit-animation-fill-mode: forwards;
+    -moz-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+    -webkit-animation-duration: 1.9s;
+    -moz-animation-duration: 1.9s;
+    animation-duration: 1.9s;
+  }
+}
+.fade-in.one {
+  -webkit-animation-delay: 0.3s;
+  -moz-animation-delay: 0.3s;
+  animation-delay: 0.3s;
+}
+.fade-in.two {
+  -webkit-animation-delay: 1.4s;
+  -moz-animation-delay: 1.4s;
+  animation-delay: 1.4s;
+}
+body {
+  font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+  font-weight: 300;
+}
+body p {
+  font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+}
+body h1,
+body h2,
+body h3 {
+  font-family: "Montserrat", sans-serif;
+}
+body a {
+  color: #2574a9;
+  text-decoration: none;
+}
+body a:hover {
+  color: #fbe191;
+}
+body button,
+body .ui.button {
+  font-family: "Lato";
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 1.1em;
+  background-color: #2574a9;
+  color: #fff;
+}
+body button:hover,
+body .ui.button:hover {
+  background-color: #fff;
+  color: #2574a9;
+  transition: all 600ms ease;
+}
+body .ui.inverted.button:hover {
+  background-color: #fff;
+  color: #2574a9;
+  transition: all 600ms ease;
+}
+@media only screen and (max-width: 480px) {
+  body #logo {
+    visibility: hidden;
+    height: 0px;
+    width: 0px;
+  }
+}
+/*general skrollr settings*/
+.skrollr-desktop body {
+  height: 100% !important;
+}
+#skrollr-body {
+  overflow: visible;
+  position: relative;
+  background-image: url("/static/img/landing_bg.png");
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+section {
+  min-height: 100vh;
+  background: transparent center no-repeat;
+  background-size: cover;
+}
+.hsContainer {
+  display: table;
+  table-layout: fixed;
+  min-height: 100vh;
+  max-width: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.hsContent {
+  display: table-cell;
+  vertical-align: middle;
+  color: #000;
+  text-align: center;
+}
+.hsContent h1 {
+  color: #2574a9;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 4em;
+  letter-spacing: 1.7px;
+  line-height: 1em;
+}
+.hsContent p {
+  width: 80%;
+  text-align: center;
+  color: #000;
+  margin: 30px auto;
+  font-size: 1.4em;
+  line-height: 1.5em;
+}
+.bcg {
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 100vh;
+  width: 100%;
+  background-image: url("/static/img/landing_bg.png");
+}
+/*logo slide*/
+#slide-1 .bcg {
+  background-position: right top;
+  background-size: cover;
+  background-color: #000;
+}
+#slide-1 .bcg .hsContainer {
+  width: 100%;
+}
+#slide-1 .bcg .hsContainer .hsContent {
+  min-height: 100vh;
+  padding-top: 45px;
+  padding-bottom: 30px;
+}
+#slide-1 .bcg .logo {
+  position: relative;
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  display: inline-block;
+  float: none;
+  top: auto;
+  right: auto;
+}
+#slide-1 .bcg h2 {
+  color: #fff;
+  font-size: 1.4em;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+}
+#slide-1 .bcg p {
+  color: #fff;
+  font-size: 1.1em;
+}
+#slide-1 #logo-mobile {
+  visibility: hidden;
+  height: 0px;
+  width: 0px;
+}
+#slide-1 #logo-title {
+  position: relative;
+  display: inline-block;
+  margin-top: 3%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 3%;
+  top: auto;
+  right: auto;
+}
+#slide-1 #down-arrow {
+  position: absolute;
+  display: inline-block;
+  bottom: 1%;
+  right: 48.5%;
+}
+@media only screen and (max-width: 480px) {
+  #slide-1 .hsContainer {
+    min-height: 100%;
+  }
+  #slide-1 #logo-title {
+    position: relative;
+    display: inline-block;
+    max-width: 90vw;
+    margin-top: 6%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 6%;
+    top: auto;
+    right: auto;
+  }
+  #slide-1 #logo {
+    visibility: hidden;
+    height: 0px;
+    width: 0px;
+  }
+  #slide-1 #logo-mobile {
+    visibility: visible;
+    position: relative;
+    display: inline-block;
+    margin-top: 10%;
+    margin-right: auto;
+    margin-left: auto;
+    height: auto;
+    width: auto;
+    top: auto;
+    right: auto;
+  }
+  #slide-1 .logo {
+    position: relative;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    display: inline-block;
+    margin: auto;
+    float: none;
+    top: auto;
+    right: auto;
+  }
+}
+/*overview slide*/
+#slide-2 {
+  height: auto;
+}
+#slide-2 .bcg {
+  background: none;
+  background-color: #fff;
+  background-size: auto auto;
+  opacity: 0.95;
+  height: 50%;
+  text-align: center;
+}
+#slide-2 .bcg .hsContainer {
+  padding: 100px 0px;
+}
+#slide-2 .bcg .hsContainer table {
+  margin: auto;
+}
+/*faq slide*/
+#slide-3 {
+  height: auto;
+}
+#slide-3 a {
+  color: #fbe191;
+}
+#slide-3 a:hover {
+  color: #ecc65b;
+}
+#slide-3 .bcg {
+  background: none;
+  background-color: #2574a9;
+  background-size: auto auto;
+}
+#slide-3 .bcg .hsContainer {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#slide-3 .bcg .hsContainer .ui.three.column.stackable.page.grid {
+  margin: 30px auto;
+}
+#slide-3 .bcg .hsContainer .ui.three.column.stackable.page.grid .row {
+  margin: auto;
+  padding: 0px;
+}
+#slide-3 .bcg .hsContainer .ui.three.column.stackable.page.grid .column {
+  padding-top: 10px;
+}
+#slide-3 .bcg .hsContainer h1 {
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 4em;
+  letter-spacing: 1.7px;
+}
+#slide-3 .bcg .hsContainer h2 {
+  color: #fff;
+  text-align: left;
+  font-size: 1.4em;
+  margin: auto;
+  line-height: 1.5em;
+}
+#slide-3 .bcg .hsContainer p {
+  width: auto;
+  margin: auto;
+  text-align: left;
+  color: #fff;
+  font-size: 1.1em;
+  line-height: 1.4em;
+}
+/*sponsors slide*/
+#slide-4 {
+  height: auto;
+}
+#slide-4 .bcg {
+  background: none;
+  background: #fff;
+  background-size: auto auto;
+  opacity: 0.96;
+  text-align: center;
+}
+#slide-4 .bcg .hsContainer {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#slide-4 .bcg .hsContainer table {
+  max-width: 850px;
+  margin: auto;
+}
+#slide-4 .bcg .hsContainer table td {
+  height: 100px;
+}
+#slide-4 .bcg .hsContainer table #main-sponsor {
+  height: 210px;
+}
+#slide-4 .bcg .hsContainer table .center-helper {
+  display: inline-block;
+  height: 100px;
+  vertical-align: middle;
+}
+#slide-4 .bcg .hsContainer a,
+#slide-4 .bcg .hsContainer img {
+  margin: auto;
+}
+@media only screen and (max-width: 768px) {
+  #slide-4 .bcg .hsContainer .spacer {
+    height: 0;
+  }
+}
+#slide-4 .bcg .hsContainer .ui.table,
+#slide-4 .bcg .hsContainer .ui.table tr,
+#slide-4 .bcg .hsContainer .ui.table tr>td,
+#slide-4 .bcg .hsContainer tbody {
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  box-shadow: none !important;
+  border: none;
+}
+/*contact slide*/
+#slide-5 {
+  height: 100vh;
+}
+#slide-5 .bcg {
+  background: none;
+  background-color: #2e2f2f;
+  background-size: auto auto;
+  text-align: center;
+  min-height: 100vh;
+}
+#slide-5 .bcg .hsContainer {
+  padding: 100px 0px;
+  height: auto;
+}
+#slide-5 .bcg .hsContainer table {
+  margin: auto;
+}
+#slide-5 .bcg .hsContainer p {
+  color: #fff;
+}
+@media only screen and (max-width: 480px) {
+  section {
+    min-height: 100% !important;
+    position: relative !important;
+  }
+  .hsContent h1 {
+    font-size: 3em;
+  }
+  .hsContent p {
+    width: 90%;
+  }
+}
+#nav {
+  position: fixed;
+  z-index: 1000;
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+}
+@media only screen and (max-width: 820px) {
+  #nav .item {
+    padding-left: 0.73em;
+    padding-right: 0.73em;
+    font-size: 0.7rem;
+  }
+  #nav #brand {
+    visibility: collapse;
+    width: 0px;
+    padding: 0px;
+  }
+  #nav .container {
+    width: auto;
+    margin: 5px 20px;
+  }
+}
+.borderless,
+td.borderless {
+  border: none !important;
+  text-align: center !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  box-shadow: none !important;
+}
+@-moz-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-o-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-moz-keyframes fadeInTwo {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.95;
+  }
+}
+@-webkit-keyframes fadeInTwo {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.95;
+  }
+}
+@-o-keyframes fadeInTwo {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.95;
+  }
+}
+@keyframes fadeInTwo {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.95;
+  }
+}
