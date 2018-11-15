@@ -1,68 +1,9 @@
-/* make keyframes that tell the start state and the end state of our object */
-@-webkit-keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@-moz-keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@-webkit-keyframes fadeInTwo {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0.95;
-  }
-}
-@-moz-keyframes fadeInTwo {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0.95;
-  }
-}
-/* fade in animation for main logo*/
-@media only screen and (min-width: 820px) {
-  .fade-in {
-    opacity: 0;
-/* make things invisible upon start */
-    -webkit-animation: fadeInTwo ease-in 1;
-    -moz-animation: fadeInTwo ease-in 1;
-    animation: fadeInTwo ease-in 1;
-    -webkit-animation-fill-mode: forwards;
-    -moz-animation-fill-mode: forwards;
-    animation-fill-mode: forwards;
-    -webkit-animation-duration: 1.9s;
-    -moz-animation-duration: 1.9s;
-    animation-duration: 1.9s;
-  }
-}
-.fade-in.one {
-  -webkit-animation-delay: 0.3s;
-  -moz-animation-delay: 0.3s;
-  animation-delay: 0.3s;
-}
-.fade-in.two {
-  -webkit-animation-delay: 1.4s;
-  -moz-animation-delay: 1.4s;
-  animation-delay: 1.4s;
-}
 body {
-  font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: 300;
 }
 body p {
-  font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Lato", sans-serif;
 }
 body h1,
 body h2,
