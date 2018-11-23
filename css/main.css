@@ -23,7 +23,7 @@ section {
   align-items: center;
 }
 
-section.dark {
+section.dark, footer.dark {
   background-color: #000E1F;
   color: white;
 }
@@ -101,4 +101,27 @@ img {
   bottom: 20px;
   margin: 0 auto;
   color: white;
+}
+
+footer {
+  height: 100px;
+  padding-top: 10px;
+}
+footer .icons {
+  margin-bottom: 5px;
+}
+footer .icons a {
+  display: inline-block;
+  font-size: 1.3em;
+  color: rgba(242, 246, 249, 0.4) !important;
+  margin: 0px;
+}
+footer .copyright {
+  font-size: 1em;
+  margin: 10px 0 5px 0;
+}
+footer #elevator {
+  font-size: 0.8em;
+  color: rgba(242, 246, 249, 0.6) !important;
+  text-decoration: underline;
 }

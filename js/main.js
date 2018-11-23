@@ -4,6 +4,17 @@ jQuery.fn.rotate = function(degrees) {
 };
 
 $(function() {
+
+  var elevator = new Elevator({
+    mainAudio: '/sound/elevator.mp3',
+    endAudio: '/sound/ding.mp3',
+    duration: 7000
+  });
+
+  $('#elevator').click(function(e){
+    elevator.elevate();
+  });
+
   $('#arrow').click(function(e) {
     e.preventDefault();
     $([document.documentElement, document.body]).animate({
