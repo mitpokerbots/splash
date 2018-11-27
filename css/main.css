@@ -77,6 +77,10 @@ img {
   vertical-align: middle;
 }
 
+img .bg {
+  margin: 0px;
+}
+
 .platinum, .gold, .silver {
   margin-top: 20px;
 }
