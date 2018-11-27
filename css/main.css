@@ -101,6 +101,7 @@ img {
 #maintitle {
   font-size: 4em;
   letter-spacing: 6px;
+  text-transform: uppercase;
 }
 
 #arrow {
@@ -114,19 +115,23 @@ footer {
   height: 100px;
   padding-top: 10px;
 }
+
 footer .icons {
   margin-bottom: 5px;
 }
+
 footer .icons a {
   display: inline-block;
   font-size: 1.3em;
   color: rgba(242, 246, 249, 0.4) !important;
   margin: 0px;
 }
+
 footer .copyright {
   font-size: 1em;
   margin: 10px 0 5px 0;
 }
+
 footer #elevator {
   font-size: 0.8em;
   color: rgba(242, 246, 249, 0.6) !important;
