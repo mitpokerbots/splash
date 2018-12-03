@@ -23,14 +23,20 @@ section {
   align-items: center;
 }
 
-section.dark, footer.dark {
+section.dark, footer.dark, #header.dark {
   background-color: #000E1F;
   color: white;
 }
 
-section.blue {
+section.blue, footer.blue {
   background-color: #016699;
   color: white;
+}
+
+#header {
+  height: 12vh;
+  padding: 2vh;
+  vertical-align: middle;
 }
 
 .center {
@@ -55,6 +61,10 @@ section.blue {
   max-width: 100vw;
   max-height: 40vh;
   margin-bottom: 8vh;
+}
+
+.header-logo {
+  max-height: 8vh;
 }
 
 .bg {
