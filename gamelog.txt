@@ -1,0 +1,2570 @@
+6.176 MIT Pokerbots - P1 vs P2 (stack=400, bb=2)
+Hand #1, P1 (0), P2 (0)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [6d 3h]
+Dealt to P2 [Ts 7d]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 279
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 folds
+Uncalled bet of 277 returned to P1
+P1 wins the pot (4)
+
+Hand #2, P2 (-2), P1 (2)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [7s 5d]
+Dealt to P1 [Ks 9c]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #3, P1 (3), P2 (-3)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Ac 9s]
+Dealt to P2 [Jd 4h]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 220
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] Exchange [Hand=[Jd, 4h],Player=P2] 
+P2 exchanges [Jd, 4h] for [7s, Jc]
+Legal actions: Check [player=P1] Exchange [Hand=[Ac, 9s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[7s, Jc],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Ac, 9s],Player=P1] 
+P1 exchanges [Ac, 9s] for [6d, 5s]
+Legal actions: Check [player=P2] Exchange [Hand=[7s, Jc],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[6d, 5s],Player=P1] 
+P1 checks
+*** FLOP *** (444) [Ad 5d Qs]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=178] 
+P2 bets 8
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=16][maxRaise=178] 
+P1 calls
+Legal actions: Check [player=P2] Exchange [Hand=[7s, Jc],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[6d, 5s],Player=P1] 
+P1 exchanges [6d, 5s] for [2s, Tc]
+Legal actions: Check [player=P2] Exchange [Hand=[7s, Jc],Player=P2] 
+P2 exchanges [7s, Jc] for [3s, Th]
+Legal actions: Check [player=P1] Exchange [Hand=[2s, Tc],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[3s, Th],Player=P2] 
+P2 exchanges [3s, Th] for [As, 4s]
+Legal actions: Check [player=P1] Exchange [Hand=[2s, Tc],Player=P1] 
+P1 exchanges [2s, Tc] for [Kc, 9h]
+Legal actions: Check [player=P2] Exchange [Hand=[As, 4s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Kc, 9h],Player=P1] 
+P1 exchanges [Kc, 9h] for [2c, Ah]
+Legal actions: Check [player=P2] Exchange [Hand=[As, 4s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[2c, Ah],Player=P1] 
+P1 exchanges [2c, Ah] for [Qd, 7c]
+Legal actions: Check [player=P2] Exchange [Hand=[As, 4s],Player=P2] 
+P2 exchanges [As, 4s] for [Js, Qh]
+Legal actions: Check [player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Js, Qh],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** TURN *** (548) [Ad 5d Qs] [3d]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=110] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=110] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Js, Qh],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (548) [Ad 5d Qs 3d] [9c]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=110] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=110] 
+P1 checks
+P1 shows [Qd 7c]
+P2 shows [Js Qh]
+P2 wins the pot (548)
+
+Hand #4, P2 (287), P1 (-287)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Kd 6s]
+Dealt to P1 [Td 7c]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #5, P1 (-286), P2 (286)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [2d Jd]
+Dealt to P2 [6d 2s]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #6, P2 (287), P1 (-287)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [5d Qd]
+Dealt to P1 [Th 6d]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 204
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P1] Exchange [Hand=[Th, 6d],Player=P1] 
+P1 exchanges [Th, 6d] for [2s, 4h]
+Legal actions: Check [player=P2] Exchange [Hand=[5d, Qd],Player=P2] 
+P2 exchanges [5d, Qd] for [2h, 3d]
+Legal actions: Check [player=P1] Exchange [Hand=[2s, 4h],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[2h, 3d],Player=P2] 
+P2 exchanges [2h, 3d] for [4d, 6h]
+Legal actions: Check [player=P1] Exchange [Hand=[2s, 4h],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[4d, 6h],Player=P2] 
+P2 exchanges [4d, 6h] for [Qs, 8c]
+Legal actions: Check [player=P1] Exchange [Hand=[2s, 4h],Player=P1] 
+P1 exchanges [2s, 4h] for [5s, 4c]
+Legal actions: Check [player=P2] Exchange [Hand=[Qs, 8c],Player=P2] 
+P2 exchanges [Qs, 8c] for [3h, Tc]
+Legal actions: Check [player=P1] Exchange [Hand=[5s, 4c],Player=P1] 
+P1 exchanges [5s, 4c] for [Jc, 8s]
+Legal actions: Check [player=P2] Exchange [Hand=[3h, Tc],Player=P2] 
+P2 exchanges [3h, Tc] for [3s, Jd]
+Legal actions: Check [player=P1] Exchange [Hand=[Jc, 8s],Player=P1] 
+P1 exchanges [Jc, 8s] for [9h, 7c]
+Legal actions: Check [player=P2] Exchange [Hand=[3s, Jd],Player=P2] 
+P2 exchanges [3s, Jd] for [6s, As]
+Legal actions: Check [player=P1] Exchange [Hand=[9h, 7c],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+*** FLOP *** (564) [8d Kh Qh]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=70] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=70] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[9h, 7c],Player=P1] 
+P1 exchanges [9h, 7c] for [2d, 9d]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[2d, 9d],Player=P1] 
+P1 exchanges [2d, 9d] for [Js, Kd]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+*** TURN *** (660) [8d Kh Qh] [Ac]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=70] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=70] 
+P2 bets 42
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=70][maxRaise=70] 
+P1 folds
+Uncalled bet of 42 returned to P2
+P2 wins the pot (660)
+
+Hand #7, P1 (-617), P2 (617)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Qs 9d]
+Dealt to P2 [8d 8h]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 checks
+Legal actions: Check [player=P2] Exchange [Hand=[8d, 8h],Player=P2] 
+P2 exchanges [8d, 8h] for [Jd, 3d]
+Legal actions: Check [player=P1] Exchange [Hand=[Qs, 9d],Player=P1] 
+P1 exchanges [Qs, 9d] for [Kh, 3s]
+Legal actions: Check [player=P2] Exchange [Hand=[Jd, 3d],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Kh, 3s],Player=P1] 
+P1 checks
+*** FLOP *** (8) [As Ad Qh]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=396] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=396] 
+P1 bets 225
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=396][maxRaise=396] 
+P2 folds
+Uncalled bet of 225 returned to P1
+P1 wins the pot (8)
+
+Hand #8, P2 (613), P1 (-613)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [3h Td]
+Dealt to P1 [Ts Tc]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #9, P1 (-612), P2 (612)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [8d Th]
+Dealt to P2 [9s Qh]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 55
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=108][maxRaise=400] 
+P1 raises to 140
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=225][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P2] Exchange [Hand=[9s, Qh],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[8d, Th],Player=P1] 
+P1 checks
+*** FLOP *** (280) [2s 5h 2h]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=260] 
+P2 bets 45
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=90][maxRaise=260] 
+P1 calls
+Legal actions: Check [player=P2] Exchange [Hand=[9s, Qh],Player=P2] 
+P2 exchanges [9s, Qh] for [4h, Qd]
+Legal actions: Check [player=P1] Exchange [Hand=[8d, Th],Player=P1] 
+P1 exchanges [8d, Th] for [2d, 6d]
+Legal actions: Check [player=P2] Exchange [Hand=[4h, Qd],Player=P2] 
+P2 exchanges [4h, Qd] for [9d, 5s]
+Legal actions: Check [player=P1] Exchange [Hand=[2d, 6d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[9d, 5s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[2d, 6d],Player=P1] 
+P1 checks
+*** TURN *** (378) [2s 5h 2h] [9c]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=209] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=209] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[9d, 5s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[2d, 6d],Player=P1] 
+P1 exchanges [2d, 6d] for [9h, 7c]
+Legal actions: Check [player=P2] Exchange [Hand=[9d, 5s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[9h, 7c],Player=P1] 
+P1 checks
+*** RIVER *** (382) [2s 5h 2h 9c] [4d]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=209] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=209] 
+P1 checks
+P1 shows [9h 7c]
+P2 shows [9d 5s]
+P2 wins the pot (382)
+
+Hand #10, P2 (803), P1 (-803)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [9c Qd]
+Dealt to P1 [Kd 8c]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 33
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=64][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P1] Exchange [Hand=[Kd, 8c],Player=P1] 
+P1 exchanges [Kd, 8c] for [3s, Js]
+Legal actions: Check [player=P2] Exchange [Hand=[9c, Qd],Player=P2] 
+P2 exchanges [9c, Qd] for [Ac, Ts]
+Legal actions: Check [player=P1] Exchange [Hand=[3s, Js],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Ac, Ts],Player=P2] 
+P2 exchanges [Ac, Ts] for [2c, 3d]
+Legal actions: Check [player=P1] Exchange [Hand=[3s, Js],Player=P1] 
+P1 exchanges [3s, Js] for [3c, 7c]
+Legal actions: Check [player=P2] Exchange [Hand=[2c, 3d],Player=P2] 
+P2 exchanges [2c, 3d] for [6d, 4s]
+Legal actions: Check [player=P1] Exchange [Hand=[3c, 7c],Player=P1] 
+P1 exchanges [3c, 7c] for [7d, Qc]
+Legal actions: Check [player=P2] Exchange [Hand=[6d, 4s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7d, Qc],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[6d, 4s],Player=P2] 
+P2 exchanges [6d, 4s] for [Qs, Kh]
+Legal actions: Check [player=P1] Exchange [Hand=[7d, Qc],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Qs, Kh],Player=P2] 
+P2 exchanges [Qs, Kh] for [Tc, 4h]
+Legal actions: Check [player=P1] Exchange [Hand=[7d, Qc],Player=P1] 
+P1 exchanges [7d, Qc] for [8d, Jh]
+Legal actions: Check [player=P2] Exchange [Hand=[Tc, 4h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[8d, Jh],Player=P1] 
+P1 exchanges [8d, Jh] for [8s, 4d]
+Legal actions: Check [player=P2] Exchange [Hand=[Tc, 4h],Player=P2] 
+P2 exchanges [Tc, 4h] for [Kc, 5s]
+Legal actions: Check [player=P1] Exchange [Hand=[8s, 4d],Player=P1] 
+P1 exchanges [8s, 4d] for [6s, 7s]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+*** FLOP *** (318) [5d 8h 6c]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=241] 
+P1 bets 141
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=241][maxRaise=241] 
+P2 folds
+Uncalled bet of 141 returned to P1
+P1 wins the pot (318)
+
+Hand #11, P1 (-644), P2 (644)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [8d 3s]
+Dealt to P2 [2c Td]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 173
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=344][maxRaise=400] 
+P2 raises to 351
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 folds
+Uncalled bet of 178 returned to P2
+P2 wins the pot (346)
+
+Hand #12, P2 (817), P1 (-817)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Kh Kc]
+Dealt to P1 [8d Ah]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 342
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P1] Exchange [Hand=[8d, Ah],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Kh, Kc],Player=P2] 
+P2 exchanges [Kh, Kc] for [6s, 9d]
+Legal actions: Check [player=P1] Exchange [Hand=[8d, Ah],Player=P1] 
+P1 exchanges [8d, Ah] for [4s, 7s]
+Legal actions: Check [player=P2] Exchange [Hand=[6s, 9d],Player=P2] 
+P2 exchanges [6s, 9d] for [8s, 7h]
+Legal actions: Check [player=P1] Exchange [Hand=[4s, 7s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[8s, 7h],Player=P2] 
+P2 exchanges [8s, 7h] for [Jd, 6d]
+Legal actions: Check [player=P1] Exchange [Hand=[4s, 7s],Player=P1] 
+P1 exchanges [4s, 7s] for [4d, 8h]
+Legal actions: Check [player=P2] Exchange [Hand=[Jd, 6d],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[4d, 8h],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Jd, 6d],Player=P2] 
+P2 checks
+*** FLOP *** (704) [As 2c Qs]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=44] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=44] 
+P2 bets 18
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=36][maxRaise=44] 
+P1 folds
+Uncalled bet of 18 returned to P2
+P2 wins the pot (704)
+
+Hand #13, P1 (-1165), P2 (1165)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [5s 7d]
+Dealt to P2 [3s Ks]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 344
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 folds
+Uncalled bet of 342 returned to P1
+P1 wins the pot (4)
+
+Hand #14, P2 (1163), P1 (-1163)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [4c Jc]
+Dealt to P1 [Js Kh]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #15, P1 (-1162), P2 (1162)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [7h Jd]
+Dealt to P2 [2s 9d]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 103
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=204][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P2] Exchange [Hand=[2s, 9d],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7h, Jd],Player=P1] 
+P1 checks
+*** FLOP *** (206) [Td 5s 6h]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=297] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=297] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[2s, 9d],Player=P2] 
+P2 exchanges [2s, 9d] for [As, 3s]
+Legal actions: Check [player=P1] Exchange [Hand=[7h, Jd],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[As, 3s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7h, Jd],Player=P1] 
+P1 checks
+*** TURN *** (208) [Td 5s 6h] [Qc]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=295] 
+P2 bets 288
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=295][maxRaise=295] 
+P1 raises to 295
+Legal actions: Fold [player=P2] Call [player=P2] 
+P2 calls
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (798) [Td 5s 6h Qc] [8h]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+P1 shows [7h Jd]
+P2 shows [As 3s]
+P2 wins the pot (798)
+
+Hand #16, P2 (1560), P1 (-1560)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [5c 8h]
+Dealt to P1 [6d 7s]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 23
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=44][maxRaise=400] 
+P1 folds
+Uncalled bet of 21 returned to P2
+P2 wins the pot (4)
+
+Hand #17, P1 (-1562), P2 (1562)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [3d Th]
+Dealt to P2 [Td Kh]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 381
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] Exchange [Hand=[Td, Kh],Player=P2] 
+P2 exchanges [Td, Kh] for [Ks, Ah]
+Legal actions: Check [player=P1] Exchange [Hand=[3d, Th],Player=P1] 
+P1 exchanges [3d, Th] for [Qc, 2h]
+Legal actions: Check [player=P2] Exchange [Hand=[Ks, Ah],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Qc, 2h],Player=P1] 
+P1 exchanges [Qc, 2h] for [Jc, Ac]
+Legal actions: Check [player=P2] Exchange [Hand=[Ks, Ah],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** FLOP *** (770) [Kc 2d Kd]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=13] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=13] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Ks, Ah],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** TURN *** (770) [Kc 2d Kd] [4s]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=13] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=13] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Ks, Ah],Player=P2] 
+P2 exchanges [Ks, Ah] for [4d, 9h]
+Legal actions: Check [player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (774) [Kc 2d Kd 4s] [8d]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=13] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=13] 
+P1 checks
+P1 shows [Jc Ac]
+P2 shows [4d 9h]
+P2 wins the pot (774)
+
+Hand #18, P2 (1949), P1 (-1949)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Kh 7d]
+Dealt to P1 [4s 8d]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #19, P1 (-1948), P2 (1948)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [9c 7c]
+Dealt to P2 [4s 6h]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 181
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=360][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P2] Exchange [Hand=[4s, 6h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[9c, 7c],Player=P1] 
+P1 checks
+*** FLOP *** (362) [Td Jd 3h]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=219] 
+P2 bets 10
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=20][maxRaise=219] 
+P1 raises to 24
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=38][maxRaise=219] 
+P2 calls
+Legal actions: Check [player=P2] Exchange [Hand=[4s, 6h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[9c, 7c],Player=P1] 
+P1 checks
+*** TURN *** (410) [Td Jd 3h] [8c]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=195] 
+P2 bets 163
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=195][maxRaise=195] 
+P1 folds
+Uncalled bet of 163 returned to P2
+P2 wins the pot (410)
+
+Hand #20, P2 (2153), P1 (-2153)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [4s 9s]
+Dealt to P1 [7c Qd]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 75
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=148][maxRaise=400] 
+P1 folds
+Uncalled bet of 73 returned to P2
+P2 wins the pot (4)
+
+Hand #21, P1 (-2155), P2 (2155)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Kh Ks]
+Dealt to P2 [5s Jh]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 66
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=130][maxRaise=400] 
+P1 raises to 376
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 folds
+Uncalled bet of 310 returned to P1
+P1 wins the pot (132)
+
+Hand #22, P2 (2089), P1 (-2089)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [5s 4h]
+Dealt to P1 [Kc 3s]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 46
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=90][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P1] Exchange [Hand=[Kc, 3s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[5s, 4h],Player=P2] 
+P2 exchanges [5s, 4h] for [2s, Jd]
+Legal actions: Check [player=P1] Exchange [Hand=[Kc, 3s],Player=P1] 
+P1 exchanges [Kc, 3s] for [6s, 8h]
+Legal actions: Check [player=P2] Exchange [Hand=[2s, Jd],Player=P2] 
+P2 exchanges [2s, Jd] for [Qh, 6h]
+Legal actions: Check [player=P1] Exchange [Hand=[6s, 8h],Player=P1] 
+P1 exchanges [6s, 8h] for [7d, 5c]
+Legal actions: Check [player=P2] Exchange [Hand=[Qh, 6h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7d, 5c],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Qh, 6h],Player=P2] 
+P2 exchanges [Qh, 6h] for [9d, 8c]
+Legal actions: Check [player=P1] Exchange [Hand=[7d, 5c],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[9d, 8c],Player=P2] 
+P2 checks
+*** FLOP *** (112) [6c Tc 9c]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=340] 
+P1 bets 333
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=340][maxRaise=340] 
+P2 calls
+Legal actions: Check [player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+*** TURN *** (778) [6c Tc 9c] [3c]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=7] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=7] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+*** RIVER *** (778) [6c Tc 9c 3c] [6d]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=7] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=7] 
+P2 checks
+P2 shows [9d 8c]
+P1 shows [7d 5c]
+P2 wins the pot (778)
+
+Hand #23, P1 (-2474), P2 (2474)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [8d 6s]
+Dealt to P2 [9d Js]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 70
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=138][maxRaise=400] 
+P2 raises to 246
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 folds
+Uncalled bet of 176 returned to P2
+P2 wins the pot (140)
+
+Hand #24, P2 (2544), P1 (-2544)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [6c Qc]
+Dealt to P1 [Jc 5s]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 128
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=254][maxRaise=400] 
+P1 folds
+Uncalled bet of 126 returned to P2
+P2 wins the pot (4)
+
+Hand #25, P1 (-2546), P2 (2546)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [3d 9d]
+Dealt to P2 [Jh Ad]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #26, P2 (2547), P1 (-2547)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [As 5d]
+Dealt to P1 [Th Qd]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Th, Qd],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[As, 5d],Player=P2] 
+P2 checks
+*** FLOP *** (4) [7s 6d 3d]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=398] 
+P1 bets 88
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=176][maxRaise=398] 
+P2 raises to 192
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=296][maxRaise=398] 
+P1 folds
+Uncalled bet of 104 returned to P2
+P2 wins the pot (180)
+
+Hand #27, P1 (-2637), P2 (2637)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [3h 6h]
+Dealt to P2 [6c 4h]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #28, P2 (2638), P1 (-2638)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [9s 4c]
+Dealt to P1 [Qh Ac]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #29, P1 (-2637), P2 (2637)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [3c 3h]
+Dealt to P2 [Kd 3s]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 300
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 raises to 400
+Legal actions: Fold [player=P1] Call [player=P1] 
+P1 calls
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** FLOP *** (800) [9s Jh Tc]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** TURN *** (800) [9s Jh Tc] [Kh]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (800) [9s Jh Tc Kh] [9c]
+P1 shows [3c 3h]
+P2 shows [Kd 3s]
+P2 wins the pot (800)
+
+Hand #30, P2 (3037), P1 (-3037)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [2d 5s]
+Dealt to P1 [6d Jh]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 73
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=144][maxRaise=400] 
+P2 folds
+Uncalled bet of 71 returned to P1
+P1 wins the pot (4)
+
+Hand #31, P1 (-3035), P2 (3035)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [3h Qc]
+Dealt to P2 [Kc 6c]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 398
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** FLOP *** (796) [Jc 5d 2h]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=2] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=2] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** TURN *** (796) [Jc 5d 2h] [8s]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=2] 
+P2 bets 2
+Legal actions: Fold [player=P1] Call [player=P1] 
+P1 calls
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (800) [Jc 5d 2h 8s] [9h]
+P1 shows [3h Qc]
+P2 shows [Kc 6c]
+P2 wins the pot (800)
+
+Hand #32, P2 (3435), P1 (-3435)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Ad 2h]
+Dealt to P1 [Qd 9d]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 77
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=152][maxRaise=400] 
+P2 raises to 227
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=377][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P1] Exchange [Hand=[Qd, 9d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Ad, 2h],Player=P2] 
+P2 exchanges [Ad, 2h] for [Jd, Kh]
+Legal actions: Check [player=P1] Exchange [Hand=[Qd, 9d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Jd, Kh],Player=P2] 
+P2 exchanges [Jd, Kh] for [4s, Ts]
+Legal actions: Check [player=P1] Exchange [Hand=[Qd, 9d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[4s, Ts],Player=P2] 
+P2 exchanges [4s, Ts] for [7d, Qc]
+Legal actions: Check [player=P1] Exchange [Hand=[Qd, 9d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[7d, Qc],Player=P2] 
+P2 checks
+*** FLOP *** (468) [4c Js 5h]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=159] 
+P1 bets 136
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=159][maxRaise=159] 
+P2 raises to 159
+Legal actions: Fold [player=P1] Call [player=P1] 
+P1 calls
+Legal actions: Check [player=P1] Exchange [Hand=[Qd, 9d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+*** TURN *** (786) [4c Js 5h] [8s]
+Legal actions: Check [player=P1] Exchange [Hand=[Qd, 9d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+*** RIVER *** (786) [4c Js 5h 8s] [Th]
+P2 shows [7d Qc]
+P1 shows [Qd 9d]
+P1 wins the pot (786)
+
+Hand #33, P1 (-3035), P2 (3035)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [3h Ac]
+Dealt to P2 [Kc 7d]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 373
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 folds
+Uncalled bet of 371 returned to P2
+P2 wins the pot (4)
+
+Hand #34, P2 (3037), P1 (-3037)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [2c Kc]
+Dealt to P1 [Jh 3d]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 36
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=70][maxRaise=400] 
+P1 raises to 227
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 folds
+Uncalled bet of 191 returned to P1
+P1 wins the pot (72)
+
+Hand #35, P1 (-3001), P2 (3001)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [9d Kd]
+Dealt to P2 [Jh Ts]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Jh, Ts],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[9d, Kd],Player=P1] 
+P1 checks
+*** FLOP *** (4) [Qc 5h Jc]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=398] 
+P2 bets 336
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=398][maxRaise=398] 
+P1 calls
+Legal actions: Check [player=P2] Exchange [Hand=[Jh, Ts],Player=P2] 
+P2 exchanges [Jh, Ts] for [5d, 4h]
+Legal actions: Check [player=P1] Exchange [Hand=[9d, Kd],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[5d, 4h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[9d, Kd],Player=P1] 
+P1 exchanges [9d, Kd] for [As, Qd]
+Legal actions: Check [player=P2] Exchange [Hand=[5d, 4h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[As, Qd],Player=P1] 
+P1 exchanges [As, Qd] for [2h, 8c]
+Legal actions: Check [player=P2] Exchange [Hand=[5d, 4h],Player=P2] 
+P2 exchanges [5d, 4h] for [5s, 6c]
+Legal actions: Check [player=P1] Exchange [Hand=[2h, 8c],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[5s, 6c],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[2h, 8c],Player=P1] 
+P1 checks
+*** TURN *** (688) [Qc 5h Jc] [8h]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=56] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=56] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[5s, 6c],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[2h, 8c],Player=P1] 
+P1 checks
+*** RIVER *** (688) [Qc 5h Jc 8h] [Tc]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=56] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=56] 
+P1 bets 44
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=56][maxRaise=56] 
+P2 folds
+Uncalled bet of 44 returned to P1
+P1 wins the pot (688)
+
+Hand #36, P2 (2657), P1 (-2657)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [5s 6s]
+Dealt to P1 [7c Td]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #37, P1 (-2656), P2 (2656)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [7d Js]
+Dealt to P2 [3s 8h]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 97
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=192][maxRaise=400] 
+P1 folds
+Uncalled bet of 95 returned to P2
+P2 wins the pot (4)
+
+Hand #38, P2 (2658), P1 (-2658)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Jc Jh]
+Dealt to P1 [5d 8s]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 333
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P1] Exchange [Hand=[5d, 8s],Player=P1] 
+P1 exchanges [5d, 8s] for [8h, 5h]
+Legal actions: Check [player=P2] Exchange [Hand=[Jc, Jh],Player=P2] 
+P2 exchanges [Jc, Jh] for [Js, Kh]
+Legal actions: Check [player=P1] Exchange [Hand=[8h, 5h],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Js, Kh],Player=P2] 
+P2 exchanges [Js, Kh] for [2c, 3d]
+Legal actions: Check [player=P1] Exchange [Hand=[8h, 5h],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[2c, 3d],Player=P2] 
+P2 checks
+*** FLOP *** (674) [4d Th 7h]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=61] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=61] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[8h, 5h],Player=P1] 
+P1 exchanges [8h, 5h] for [3s, 4c]
+Legal actions: Check [player=P2] Exchange [Hand=[2c, 3d],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[3s, 4c],Player=P1] 
+P1 exchanges [3s, 4c] for [Ad, Td]
+Legal actions: Check [player=P2] Exchange [Hand=[2c, 3d],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, Td],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[2c, 3d],Player=P2] 
+P2 exchanges [2c, 3d] for [9s, 2s]
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, Td],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[9s, 2s],Player=P2] 
+P2 checks
+*** TURN *** (694) [4d Th 7h] [Tc]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=53] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=53] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, Td],Player=P1] 
+P1 exchanges [Ad, Td] for [8d, 6c]
+Legal actions: Check [player=P2] Exchange [Hand=[9s, 2s],Player=P2] 
+P2 exchanges [9s, 2s] for [6d, 5s]
+Legal actions: Check [player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+*** RIVER *** (726) [4d Th 7h Tc] [Qs]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=37] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=37] 
+P2 checks
+P2 shows [6d 5s]
+P1 shows [8d 6c]
+P1 wins the pot (726)
+
+Hand #39, P1 (-2295), P2 (2295)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [7c 6s]
+Dealt to P2 [6d 8c]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 319
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 raises to 400
+Legal actions: Fold [player=P2] Call [player=P2] 
+P2 folds
+Uncalled bet of 81 returned to P1
+P1 wins the pot (638)
+
+Hand #40, P2 (1976), P1 (-1976)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Jd 5d]
+Dealt to P1 [Jc Js]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 327
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] Exchange [Hand=[Jc, Js],Player=P1] 
+P1 exchanges [Jc, Js] for [8c, 9d]
+Legal actions: Check [player=P2] Exchange [Hand=[Jd, 5d],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[8c, 9d],Player=P1] 
+P1 exchanges [8c, 9d] for [Ad, Ts]
+Legal actions: Check [player=P2] Exchange [Hand=[Jd, 5d],Player=P2] 
+P2 exchanges [Jd, 5d] for [9c, 4h]
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, Ts],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[9c, 4h],Player=P2] 
+P2 checks
+*** FLOP *** (662) [8d 2c 7h]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=67] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=67] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, Ts],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[9c, 4h],Player=P2] 
+P2 checks
+*** TURN *** (662) [8d 2c 7h] [Qd]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=67] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=67] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, Ts],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[9c, 4h],Player=P2] 
+P2 exchanges [9c, 4h] for [Ah, 3d]
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, Ts],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Ah, 3d],Player=P2] 
+P2 exchanges [Ah, 3d] for [8h, 9h]
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, Ts],Player=P1] 
+P1 exchanges [Ad, Ts] for [Ks, 4c]
+Legal actions: Check [player=P2] Exchange [Hand=[8h, 9h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Ks, 4c],Player=P1] 
+P1 exchanges [Ks, 4c] for [5s, 6c]
+Legal actions: Check [player=P2] Exchange [Hand=[8h, 9h],Player=P2] 
+P2 exchanges [8h, 9h] for [Td, 6d]
+Legal actions: Check [player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+*** RIVER *** (714) [8d 2c 7h Qd] [5h]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=43] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=43] 
+P2 checks
+P2 shows [Td 6d]
+P1 shows [5s 6c]
+P1 wins the pot (714)
+
+Hand #41, P1 (-1619), P2 (1619)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [8c 3h]
+Dealt to P2 [3c 5h]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #42, P2 (1620), P1 (-1620)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [8h 6s]
+Dealt to P1 [As 4c]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 346
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 folds
+Uncalled bet of 344 returned to P2
+P2 wins the pot (4)
+
+Hand #43, P1 (-1622), P2 (1622)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [5h Ad]
+Dealt to P2 [Kh 7h]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 206
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 folds
+Uncalled bet of 204 returned to P1
+P1 wins the pot (4)
+
+Hand #44, P2 (1620), P1 (-1620)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [4s Kc]
+Dealt to P1 [Th Ks]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #45, P1 (-1619), P2 (1619)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [7c 5h]
+Dealt to P2 [Jh Ts]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #46, P2 (1620), P1 (-1620)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Ad 8h]
+Dealt to P1 [As Qh]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 checks
+Legal actions: Check [player=P1] Exchange [Hand=[As, Qh],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Ad, 8h],Player=P2] 
+P2 checks
+*** FLOP *** (4) [3h 4s Ac]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=398] 
+P1 bets 45
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=90][maxRaise=398] 
+P2 raises to 387
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=398][maxRaise=398] 
+P1 folds
+Uncalled bet of 342 returned to P2
+P2 wins the pot (94)
+
+Hand #47, P1 (-1667), P2 (1667)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [5c Ah]
+Dealt to P2 [3s Jd]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #48, P2 (1668), P1 (-1668)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Qs 5s]
+Dealt to P1 [8s Ad]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 238
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P1] Exchange [Hand=[8s, Ad],Player=P1] 
+P1 exchanges [8s, Ad] for [Th, 9h]
+Legal actions: Check [player=P2] Exchange [Hand=[Qs, 5s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Th, 9h],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Qs, 5s],Player=P2] 
+P2 checks
+*** FLOP *** (478) [3d 3s 6s]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=160] 
+P1 bets 28
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=56][maxRaise=160] 
+P2 folds
+Uncalled bet of 28 returned to P1
+P1 wins the pot (478)
+
+Hand #49, P1 (-1430), P2 (1430)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Ks 3s]
+Dealt to P2 [Jc 7c]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 212
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 raises to 400
+Legal actions: Fold [player=P1] Call [player=P1] 
+P1 calls
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** FLOP *** (800) [6s 8d Qc]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** TURN *** (800) [6s 8d Qc] [4s]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (800) [6s 8d Qc 4s] [Tc]
+P1 shows [Ks 3s]
+P2 shows [Jc 7c]
+P1 wins the pot (800)
+
+Hand #50, P2 (1030), P1 (-1030)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Jd 8s]
+Dealt to P1 [9c 4c]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 395
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 folds
+Uncalled bet of 393 returned to P1
+P1 wins the pot (4)
+
+Hand #51, P1 (-1028), P2 (1028)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [7s 7d]
+Dealt to P2 [Kd 3c]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 275
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P2] Exchange [Hand=[Kd, 3c],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7s, 7d],Player=P1] 
+P1 exchanges [7s, 7d] for [9s, Ts]
+Legal actions: Check [player=P2] Exchange [Hand=[Kd, 3c],Player=P2] 
+P2 exchanges [Kd, 3c] for [Qc, Js]
+Legal actions: Check [player=P1] Exchange [Hand=[9s, Ts],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Qc, Js],Player=P2] 
+P2 exchanges [Qc, Js] for [4h, 2s]
+Legal actions: Check [player=P1] Exchange [Hand=[9s, Ts],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[4h, 2s],Player=P2] 
+P2 exchanges [4h, 2s] for [6d, Ad]
+Legal actions: Check [player=P1] Exchange [Hand=[9s, Ts],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[6d, Ad],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[9s, Ts],Player=P1] 
+P1 checks
+*** FLOP *** (566) [5c Kc 9h]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=111] 
+P2 bets 11
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=22][maxRaise=111] 
+P1 calls
+Legal actions: Check [player=P2] Exchange [Hand=[6d, Ad],Player=P2] 
+P2 exchanges [6d, Ad] for [3s, Td]
+Legal actions: Check [player=P1] Exchange [Hand=[9s, Ts],Player=P1] 
+P1 exchanges [9s, Ts] for [4c, 8s]
+Legal actions: Check [player=P2] Exchange [Hand=[3s, Td],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[4c, 8s],Player=P1] 
+P1 exchanges [4c, 8s] for [8c, As]
+Legal actions: Check [player=P2] Exchange [Hand=[3s, Td],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[8c, As],Player=P1] 
+P1 exchanges [8c, As] for [6c, Qh]
+Legal actions: Check [player=P2] Exchange [Hand=[3s, Td],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[6c, Qh],Player=P1] 
+P1 exchanges [6c, Qh] for [Jc, 6s]
+Legal actions: Check [player=P2] Exchange [Hand=[3s, Td],Player=P2] 
+P2 exchanges [3s, Td] for [4s, 7h]
+Legal actions: Check [player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** TURN *** (696) [5c Kc 9h] [Ah]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=52] 
+P2 bets 18
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=36][maxRaise=52] 
+P1 folds
+Uncalled bet of 18 returned to P2
+P2 wins the pot (696)
+
+Hand #52, P2 (1376), P1 (-1376)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Js 6c]
+Dealt to P1 [4s Qd]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #53, P1 (-1375), P2 (1375)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [3h 5d]
+Dealt to P2 [3d 5s]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 51
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=100][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P2] Exchange [Hand=[3d, 5s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[3h, 5d],Player=P1] 
+P1 checks
+*** FLOP *** (102) [5c 6d Tc]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=349] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=349] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[3d, 5s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[3h, 5d],Player=P1] 
+P1 exchanges [3h, 5d] for [6h, Qs]
+Legal actions: Check [player=P2] Exchange [Hand=[3d, 5s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[6h, Qs],Player=P1] 
+P1 checks
+*** TURN *** (104) [5c 6d Tc] [8d]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=347] 
+P2 bets 294
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=347][maxRaise=347] 
+P1 raises to 347
+Legal actions: Fold [player=P2] Call [player=P2] 
+P2 calls
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (798) [5c 6d Tc 8d] [9h]
+P1 shows [6h Qs]
+P2 shows [3d 5s]
+P1 wins the pot (798)
+
+Hand #54, P2 (977), P1 (-977)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [8s 3h]
+Dealt to P1 [Ks 8h]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 27
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=52][maxRaise=400] 
+P1 folds
+Uncalled bet of 25 returned to P2
+P2 wins the pot (4)
+
+Hand #55, P1 (-979), P2 (979)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Ah 9s]
+Dealt to P2 [Jd Kh]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Jd, Kh],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Ah, 9s],Player=P1] 
+P1 exchanges [Ah, 9s] for [Js, 3d]
+Legal actions: Check [player=P2] Exchange [Hand=[Jd, Kh],Player=P2] 
+P2 exchanges [Jd, Kh] for [9c, 7d]
+Legal actions: Check [player=P1] Exchange [Hand=[Js, 3d],Player=P1] 
+P1 exchanges [Js, 3d] for [2d, 3s]
+Legal actions: Check [player=P2] Exchange [Hand=[9c, 7d],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[2d, 3s],Player=P1] 
+P1 checks
+*** FLOP *** (12) [3h 8s Ts]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=392] 
+P2 bets 122
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=244][maxRaise=392] 
+P1 raises to 342
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=392][maxRaise=392] 
+P2 raises to 392
+Legal actions: Fold [player=P1] Call [player=P1] 
+P1 calls
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** TURN *** (796) [3h 8s Ts] [2h]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (796) [3h 8s Ts 2h] [Tc]
+P1 shows [2d 3s]
+P2 shows [9c 7d]
+P1 wins the pot (796)
+
+Hand #56, P2 (583), P1 (-583)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [7d 5c]
+Dealt to P1 [2d 9d]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 230
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] Exchange [Hand=[2d, 9d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[7d, 5c],Player=P2] 
+P2 checks
+*** FLOP *** (460) [Ad 5d 4d]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=170] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=170] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[2d, 9d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[7d, 5c],Player=P2] 
+P2 exchanges [7d, 5c] for [9c, Qh]
+Legal actions: Check [player=P1] Exchange [Hand=[2d, 9d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[9c, Qh],Player=P2] 
+P2 checks
+*** TURN *** (462) [Ad 5d 4d] [3c]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=168] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=168] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[2d, 9d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[9c, Qh],Player=P2] 
+P2 exchanges [9c, Qh] for [6h, 3d]
+Legal actions: Check [player=P1] Exchange [Hand=[2d, 9d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[6h, 3d],Player=P2] 
+P2 exchanges [6h, 3d] for [Th, Td]
+Legal actions: Check [player=P1] Exchange [Hand=[2d, 9d],Player=P1] 
+P1 exchanges [2d, 9d] for [Ac, 4c]
+Legal actions: Check [player=P2] Exchange [Hand=[Th, Td],Player=P2] 
+P2 exchanges [Th, Td] for [3s, 7h]
+Legal actions: Check [player=P1] Exchange [Hand=[Ac, 4c],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[3s, 7h],Player=P2] 
+P2 exchanges [3s, 7h] for [Tc, Ks]
+Legal actions: Check [player=P1] Exchange [Hand=[Ac, 4c],Player=P1] 
+P1 exchanges [Ac, 4c] for [9s, Ah]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[9s, Ah],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+*** RIVER *** (528) [Ad 5d 4d 3c] [6c]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=108] 
+P1 bets 60
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=108][maxRaise=108] 
+P2 folds
+Uncalled bet of 60 returned to P1
+P1 wins the pot (528)
+
+Hand #57, P1 (-291), P2 (291)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [7s As]
+Dealt to P2 [8c Tc]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 164
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=326][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] Exchange [Hand=[8c, Tc],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7s, As],Player=P1] 
+P1 exchanges [7s, As] for [Td, Jc]
+Legal actions: Check [player=P2] Exchange [Hand=[8c, Tc],Player=P2] 
+P2 exchanges [8c, Tc] for [Qh, 5c]
+Legal actions: Check [player=P1] Exchange [Hand=[Td, Jc],Player=P1] 
+P1 exchanges [Td, Jc] for [Kh, 3s]
+Legal actions: Check [player=P2] Exchange [Hand=[Qh, 5c],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Kh, 3s],Player=P1] 
+P1 checks
+*** FLOP *** (336) [Kc 8h 5s]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=230] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=230] 
+P1 bets 63
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=126][maxRaise=230] 
+P2 folds
+Uncalled bet of 63 returned to P1
+P1 wins the pot (336)
+
+Hand #58, P2 (125), P1 (-125)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [3s 2h]
+Dealt to P1 [As Js]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 checks
+Legal actions: Check [player=P1] Exchange [Hand=[As, Js],Player=P1] 
+P1 exchanges [As, Js] for [Jh, Qc]
+Legal actions: Check [player=P2] Exchange [Hand=[3s, 2h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Jh, Qc],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[3s, 2h],Player=P2] 
+P2 exchanges [3s, 2h] for [Qd, 4d]
+Legal actions: Check [player=P1] Exchange [Hand=[Jh, Qc],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Qd, 4d],Player=P2] 
+P2 exchanges [Qd, 4d] for [Jc, Ts]
+Legal actions: Check [player=P1] Exchange [Hand=[Jh, Qc],Player=P1] 
+P1 exchanges [Jh, Qc] for [Ad, 7s]
+Legal actions: Check [player=P2] Exchange [Hand=[Jc, Ts],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, 7s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Jc, Ts],Player=P2] 
+P2 checks
+*** FLOP *** (16) [9d 5s 2c]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=392] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=392] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, 7s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Jc, Ts],Player=P2] 
+P2 exchanges [Jc, Ts] for [9h, 8s]
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, 7s],Player=P1] 
+P1 exchanges [Ad, 7s] for [Qs, 3h]
+Legal actions: Check [player=P2] Exchange [Hand=[9h, 8s],Player=P2] 
+P2 exchanges [9h, 8s] for [5c, 6s]
+Legal actions: Check [player=P1] Exchange [Hand=[Qs, 3h],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[5c, 6s],Player=P2] 
+P2 checks
+*** TURN *** (48) [9d 5s 2c] [2s]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=368] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=368] 
+P2 bets 346
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=368][maxRaise=368] 
+P1 folds
+Uncalled bet of 346 returned to P2
+P2 wins the pot (48)
+
+Hand #59, P1 (-141), P2 (141)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [4h 2s]
+Dealt to P2 [5s 2d]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 172
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=342][maxRaise=400] 
+P2 raises to 351
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 raises to 400
+Legal actions: Fold [player=P2] Call [player=P2] 
+P2 calls
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** FLOP *** (800) [5d Kd Th]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** TURN *** (800) [5d Kd Th] [6h]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (800) [5d Kd Th 6h] [4d]
+P1 shows [4h 2s]
+P2 shows [5s 2d]
+P2 wins the pot (800)
+
+Hand #60, P2 (541), P1 (-541)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Ts Ac]
+Dealt to P1 [4c 5d]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #61, P1 (-540), P2 (540)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Ac 4d]
+Dealt to P2 [6d 8c]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 278
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 folds
+Uncalled bet of 276 returned to P2
+P2 wins the pot (4)
+
+Hand #62, P2 (542), P1 (-542)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Qh 8h]
+Dealt to P1 [9d 7h]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 checks
+Legal actions: Check [player=P1] Exchange [Hand=[9d, 7h],Player=P1] 
+P1 exchanges [9d, 7h] for [Qd, 6d]
+Legal actions: Check [player=P2] Exchange [Hand=[Qh, 8h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Qd, 6d],Player=P1] 
+P1 exchanges [Qd, 6d] for [3h, 3d]
+Legal actions: Check [player=P2] Exchange [Hand=[Qh, 8h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[3h, 3d],Player=P1] 
+P1 exchanges [3h, 3d] for [7s, 4s]
+Legal actions: Check [player=P2] Exchange [Hand=[Qh, 8h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7s, 4s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Qh, 8h],Player=P2] 
+P2 exchanges [Qh, 8h] for [Ts, 8c]
+Legal actions: Check [player=P1] Exchange [Hand=[7s, 4s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Ts, 8c],Player=P2] 
+P2 checks
+*** FLOP *** (20) [3s 5h 8d]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=384] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=384] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7s, 4s],Player=P1] 
+P1 exchanges [7s, 4s] for [Td, 6h]
+Legal actions: Check [player=P2] Exchange [Hand=[Ts, 8c],Player=P2] 
+P2 exchanges [Ts, 8c] for [As, Ac]
+Legal actions: Check [player=P1] Exchange [Hand=[Td, 6h],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[As, Ac],Player=P2] 
+P2 checks
+*** TURN *** (40) [3s 5h 8d] [7d]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=368] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=368] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Td, 6h],Player=P1] 
+P1 exchanges [Td, 6h] for [7c, Qc]
+Legal actions: Check [player=P2] Exchange [Hand=[As, Ac],Player=P2] 
+P2 exchanges [As, Ac] for [Qs, Ad]
+Legal actions: Check [player=P1] Exchange [Hand=[7c, Qc],Player=P1] 
+P1 exchanges [7c, Qc] for [Ks, 9h]
+Legal actions: Check [player=P2] Exchange [Hand=[Qs, Ad],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Ks, 9h],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Qs, Ad],Player=P2] 
+P2 exchanges [Qs, Ad] for [5s, 5d]
+Legal actions: Check [player=P1] Exchange [Hand=[Ks, 9h],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[5s, 5d],Player=P2] 
+P2 checks
+*** RIVER *** (160) [3s 5h 8d 7d] [Kc]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=272] 
+P1 bets 109
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=218][maxRaise=272] 
+P2 raises to 240
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=272][maxRaise=272] 
+P1 calls
+P2 shows [5s 5d]
+P1 shows [Ks 9h]
+P2 wins the pot (640)
+
+Hand #63, P1 (-910), P2 (910)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Qc 4s]
+Dealt to P2 [9c Ts]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 281
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] Exchange [Hand=[9c, Ts],Player=P2] 
+P2 exchanges [9c, Ts] for [As, 8s]
+Legal actions: Check [player=P1] Exchange [Hand=[Qc, 4s],Player=P1] 
+P1 exchanges [Qc, 4s] for [3d, Ac]
+Legal actions: Check [player=P2] Exchange [Hand=[As, 8s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[3d, Ac],Player=P1] 
+P1 exchanges [3d, Ac] for [Jc, 7h]
+Legal actions: Check [player=P2] Exchange [Hand=[As, 8s],Player=P2] 
+P2 exchanges [As, 8s] for [9d, 2d]
+Legal actions: Check [player=P1] Exchange [Hand=[Jc, 7h],Player=P1] 
+P1 exchanges [Jc, 7h] for [Kc, 8d]
+Legal actions: Check [player=P2] Exchange [Hand=[9d, 2d],Player=P2] 
+P2 exchanges [9d, 2d] for [8h, 8c]
+Legal actions: Check [player=P1] Exchange [Hand=[Kc, 8d],Player=P1] 
+P1 exchanges [Kc, 8d] for [Kd, Qh]
+Legal actions: Check [player=P2] Exchange [Hand=[8h, 8c],Player=P2] 
+P2 exchanges [8h, 8c] for [Tc, 5d]
+Legal actions: Check [player=P1] Exchange [Hand=[Kd, Qh],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Tc, 5d],Player=P2] 
+P2 exchanges [Tc, 5d] for [Th, Js]
+Legal actions: Check [player=P1] Exchange [Hand=[Kd, Qh],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Kd, Qh],Player=P1] 
+P1 exchanges [Kd, Qh] for [7d, 9h]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** FLOP *** (686) [3h 5c 6h]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=57] 
+P2 bets 6
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=12][maxRaise=57] 
+P1 folds
+Uncalled bet of 6 returned to P2
+P2 wins the pot (686)
+
+Hand #64, P2 (1253), P1 (-1253)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [5s Kc]
+Dealt to P1 [Th Kh]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Th, Kh],Player=P1] 
+P1 exchanges [Th, Kh] for [2d, 6h]
+Legal actions: Check [player=P2] Exchange [Hand=[5s, Kc],Player=P2] 
+P2 exchanges [5s, Kc] for [Qc, 6s]
+Legal actions: Check [player=P1] Exchange [Hand=[2d, 6h],Player=P1] 
+P1 exchanges [2d, 6h] for [7s, 4d]
+Legal actions: Check [player=P2] Exchange [Hand=[Qc, 6s],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7s, 4d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Qc, 6s],Player=P2] 
+P2 exchanges [Qc, 6s] for [Jc, Ks]
+Legal actions: Check [player=P1] Exchange [Hand=[7s, 4d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Jc, Ks],Player=P2] 
+P2 exchanges [Jc, Ks] for [4s, 7d]
+Legal actions: Check [player=P1] Exchange [Hand=[7s, 4d],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[4s, 7d],Player=P2] 
+P2 exchanges [4s, 7d] for [Ac, 9c]
+Legal actions: Check [player=P1] Exchange [Hand=[7s, 4d],Player=P1] 
+P1 exchanges [7s, 4d] for [Qs, 3s]
+Legal actions: Check [player=P2] Exchange [Hand=[Ac, 9c],Player=P2] 
+P2 exchanges [Ac, 9c] for [5d, Ah]
+Legal actions: Check [player=P1] Exchange [Hand=[Qs, 3s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[5d, Ah],Player=P2] 
+P2 checks
+*** FLOP *** (80) [4h 6c 6d]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=336] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=336] 
+P2 bets 165
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=330][maxRaise=336] 
+P1 calls
+Legal actions: Check [player=P1] Exchange [Hand=[Qs, 3s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[5d, Ah],Player=P2] 
+P2 checks
+*** TURN *** (410) [4h 6c 6d] [3c]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=171] 
+P1 bets 94
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=171][maxRaise=171] 
+P2 raises to 171
+Legal actions: Fold [player=P1] Call [player=P1] 
+P1 calls
+Legal actions: Check [player=P1] Exchange [Hand=[Qs, 3s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+*** RIVER *** (752) [4h 6c 6d 3c] [7c]
+P2 shows [5d Ah]
+P1 shows [Qs 3s]
+P2 wins the pot (752)
+
+Hand #65, P1 (-1605), P2 (1605)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Qc 7s]
+Dealt to P2 [Kd 2s]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #66, P2 (1606), P1 (-1606)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Kc Th]
+Dealt to P1 [6c Tc]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 288
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 folds
+Uncalled bet of 286 returned to P1
+P1 wins the pot (4)
+
+Hand #67, P1 (-1604), P2 (1604)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [8c 8h]
+Dealt to P2 [Js Qs]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 179
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=356][maxRaise=400] 
+P2 folds
+Uncalled bet of 177 returned to P1
+P1 wins the pot (4)
+
+Hand #68, P2 (1602), P1 (-1602)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Jc 9h]
+Dealt to P1 [Qd Qc]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #69, P1 (-1601), P2 (1601)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [9h Kd]
+Dealt to P2 [4h Qd]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #70, P2 (1602), P1 (-1602)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Kc Ac]
+Dealt to P1 [8h 6c]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 302
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 folds
+Uncalled bet of 300 returned to P1
+P1 wins the pot (4)
+
+Hand #71, P1 (-1600), P2 (1600)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [5c 7s]
+Dealt to P2 [5h 3s]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #72, P2 (1601), P1 (-1601)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [9s 8s]
+Dealt to P1 [Jh 9c]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 55
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=108][maxRaise=400] 
+P2 folds
+Uncalled bet of 53 returned to P1
+P1 wins the pot (4)
+
+Hand #73, P1 (-1599), P2 (1599)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Td Jc]
+Dealt to P2 [Qh 4s]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 188
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=374][maxRaise=400] 
+P2 raises to 375
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 raises to 400
+Legal actions: Fold [player=P2] Call [player=P2] 
+P2 calls
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** FLOP *** (800) [4h Th 4d]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** TURN *** (800) [4h Th 4d] [Kd]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (800) [4h Th 4d Kd] [6s]
+P1 shows [Td Jc]
+P2 shows [Qh 4s]
+P2 wins the pot (800)
+
+Hand #74, P2 (1999), P1 (-1999)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Tc Ah]
+Dealt to P1 [Jd Qd]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Jd, Qd],Player=P1] 
+P1 exchanges [Jd, Qd] for [7c, Qh]
+Legal actions: Check [player=P2] Exchange [Hand=[Tc, Ah],Player=P2] 
+P2 exchanges [Tc, Ah] for [Th, 8c]
+Legal actions: Check [player=P1] Exchange [Hand=[7c, Qh],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Th, 8c],Player=P2] 
+P2 exchanges [Th, 8c] for [8s, Td]
+Legal actions: Check [player=P1] Exchange [Hand=[7c, Qh],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[8s, Td],Player=P2] 
+P2 checks
+*** FLOP *** (12) [6d 4d 3d]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=392] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=392] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7c, Qh],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[8s, Td],Player=P2] 
+P2 exchanges [8s, Td] for [5c, Kd]
+Legal actions: Check [player=P1] Exchange [Hand=[7c, Qh],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[5c, Kd],Player=P2] 
+P2 exchanges [5c, Kd] for [7s, Kh]
+Legal actions: Check [player=P1] Exchange [Hand=[7c, Qh],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[7s, Kh],Player=P2] 
+P2 exchanges [7s, Kh] for [9c, Kc]
+Legal actions: Check [player=P1] Exchange [Hand=[7c, Qh],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[9c, Kc],Player=P2] 
+P2 checks
+*** TURN *** (68) [6d 4d 3d] [7d]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=336] 
+P1 bets 315
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=336][maxRaise=336] 
+P2 calls
+Legal actions: Check [player=P1] Exchange [Hand=[7c, Qh],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+*** RIVER *** (698) [6d 4d 3d 7d] [4s]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=21] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=21] 
+P2 bets 4
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=8][maxRaise=21] 
+P1 folds
+Uncalled bet of 4 returned to P2
+P2 wins the pot (698)
+
+Hand #75, P1 (-2318), P2 (2318)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [6h 6c]
+Dealt to P2 [3h Qh]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 checks
+Legal actions: Check [player=P2] Exchange [Hand=[3h, Qh],Player=P2] 
+P2 exchanges [3h, Qh] for [9d, 7d]
+Legal actions: Check [player=P1] Exchange [Hand=[6h, 6c],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[9d, 7d],Player=P2] 
+P2 exchanges [9d, 7d] for [9h, Kh]
+Legal actions: Check [player=P1] Exchange [Hand=[6h, 6c],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[9h, Kh],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[6h, 6c],Player=P1] 
+P1 checks
+*** FLOP *** (10) [8c Th 4s]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=392] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=392] 
+P1 bets 202
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=392][maxRaise=392] 
+P2 calls
+Legal actions: Check [player=P2] Exchange [Hand=[9h, Kh],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[6h, 6c],Player=P1] 
+P1 checks
+*** TURN *** (414) [8c Th 4s] [4h]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=190] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=190] 
+P1 bets 170
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=190][maxRaise=190] 
+P2 folds
+Uncalled bet of 170 returned to P1
+P1 wins the pot (414)
+
+Hand #76, P2 (2108), P1 (-2108)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [7s 5h]
+Dealt to P1 [Ad Qd]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #77, P1 (-2107), P2 (2107)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [5h 3c]
+Dealt to P2 [Ah 8h]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #78, P2 (2108), P1 (-2108)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Jh 8h]
+Dealt to P1 [Th 5d]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 85
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=168][maxRaise=400] 
+P1 raises to 203
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=321][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] Exchange [Hand=[Th, 5d],Player=P1] 
+P1 exchanges [Th, 5d] for [4s, 4d]
+Legal actions: Check [player=P2] Exchange [Hand=[Jh, 8h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[4s, 4d],Player=P1] 
+P1 exchanges [4s, 4d] for [Qs, 9s]
+Legal actions: Check [player=P2] Exchange [Hand=[Jh, 8h],Player=P2] 
+P2 exchanges [Jh, 8h] for [5h, 7h]
+Legal actions: Check [player=P1] Exchange [Hand=[Qs, 9s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[5h, 7h],Player=P2] 
+P2 exchanges [5h, 7h] for [6h, 6c]
+Legal actions: Check [player=P1] Exchange [Hand=[Qs, 9s],Player=P1] 
+P1 exchanges [Qs, 9s] for [As, 5s]
+Legal actions: Check [player=P2] Exchange [Hand=[6h, 6c],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[As, 5s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[6h, 6c],Player=P2] 
+P2 checks
+*** FLOP *** (426) [9d Js Ts]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=183] 
+P1 bets 127
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=183][maxRaise=183] 
+P2 raises to 183
+Legal actions: Fold [player=P1] Call [player=P1] 
+P1 folds
+Uncalled bet of 56 returned to P2
+P2 wins the pot (680)
+
+Hand #79, P1 (-2452), P2 (2452)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [5d 3c]
+Dealt to P2 [Td 7c]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #80, P2 (2453), P1 (-2453)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [6s 7s]
+Dealt to P1 [8h 3c]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #81, P1 (-2452), P2 (2452)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [6d 9c]
+Dealt to P2 [Ac 3c]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 59
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=116][maxRaise=400] 
+P2 raises to 347
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] Exchange [Hand=[Ac, 3c],Player=P2] 
+P2 exchanges [Ac, 3c] for [2c, Qd]
+Legal actions: Check [player=P1] Exchange [Hand=[6d, 9c],Player=P1] 
+P1 exchanges [6d, 9c] for [4c, 5h]
+Legal actions: Check [player=P2] Exchange [Hand=[2c, Qd],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[4c, 5h],Player=P1] 
+P1 exchanges [4c, 5h] for [Jc, 5s]
+Legal actions: Check [player=P2] Exchange [Hand=[2c, Qd],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Jc, 5s],Player=P1] 
+P1 exchanges [Jc, 5s] for [Ks, Ts]
+Legal actions: Check [player=P2] Exchange [Hand=[2c, Qd],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Ks, Ts],Player=P1] 
+P1 exchanges [Ks, Ts] for [8s, 2s]
+Legal actions: Check [player=P2] Exchange [Hand=[2c, Qd],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** FLOP *** (726) [Js Th Ah]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=23] 
+P2 bets 14
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=23][maxRaise=23] 
+P1 calls
+Legal actions: Check [player=P2] Exchange [Hand=[2c, Qd],Player=P2] 
+P2 exchanges [2c, Qd] for [8d, 6h]
+Legal actions: Check [player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[8d, 6h],Player=P2] 
+P2 exchanges [8d, 6h] for [3h, Ad]
+Legal actions: Check [player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** TURN *** (766) [Js Th Ah] [9s]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=9] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=9] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (766) [Js Th Ah 9s] [2h]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=9] 
+P2 bets 8
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=9][maxRaise=9] 
+P1 folds
+Uncalled bet of 8 returned to P2
+P2 wins the pot (766)
+
+Hand #82, P2 (2843), P1 (-2843)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [3c As]
+Dealt to P1 [Qc 7c]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 87
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=172][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] Exchange [Hand=[Qc, 7c],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[3c, As],Player=P2] 
+P2 checks
+*** FLOP *** (174) [9s 4c 8h]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=313] 
+P1 checks
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=313] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Qc, 7c],Player=P1] 
+P1 exchanges [Qc, 7c] for [Qd, 2s]
+Legal actions: Check [player=P2] Exchange [Hand=[3c, As],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Qd, 2s],Player=P1] 
+P1 exchanges [Qd, 2s] for [5h, Kc]
+Legal actions: Check [player=P2] Exchange [Hand=[3c, As],Player=P2] 
+P2 exchanges [3c, As] for [6h, 8c]
+Legal actions: Check [player=P1] Exchange [Hand=[5h, Kc],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[6h, 8c],Player=P2] 
+P2 checks
+*** TURN *** (182) [9s 4c 8h] [3h]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=307] 
+P1 bets 17
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=34][maxRaise=307] 
+P2 folds
+Uncalled bet of 17 returned to P1
+P1 wins the pot (182)
+
+Hand #83, P1 (-2754), P2 (2754)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [7h 7s]
+Dealt to P2 [Qs Th]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 116
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=230][maxRaise=400] 
+P2 raises to 328
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] Exchange [Hand=[Qs, Th],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7h, 7s],Player=P1] 
+P1 checks
+*** FLOP *** (656) [9h Tc As]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=72] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=72] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Qs, Th],Player=P2] 
+P2 exchanges [Qs, Th] for [8d, 4c]
+Legal actions: Check [player=P1] Exchange [Hand=[7h, 7s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[8d, 4c],Player=P2] 
+P2 exchanges [8d, 4c] for [Js, 3c]
+Legal actions: Check [player=P1] Exchange [Hand=[7h, 7s],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Js, 3c],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7h, 7s],Player=P1] 
+P1 exchanges [7h, 7s] for [Td, 3s]
+Legal actions: Check [player=P2] Exchange [Hand=[Js, 3c],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Td, 3s],Player=P1] 
+P1 exchanges [Td, 3s] for [3d, Kh]
+Legal actions: Check [player=P2] Exchange [Hand=[Js, 3c],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[3d, Kh],Player=P1] 
+P1 exchanges [3d, Kh] for [Ts, Jc]
+Legal actions: Check [player=P2] Exchange [Hand=[Js, 3c],Player=P2] 
+P2 exchanges [Js, 3c] for [Ks, 5d]
+Legal actions: Check [player=P1] Exchange [Hand=[Ts, Jc],Player=P1] 
+P1 exchanges [Ts, Jc] for [2s, 3h]
+Legal actions: Check [player=P2] Exchange [Hand=[Ks, 5d],Player=P2] 
+P2 exchanges [Ks, 5d] for [5c, 6d]
+Legal actions: Check [player=P1] 
+P1 checks
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** TURN *** (716) [9h Tc As] [Qc]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=42] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=42] 
+P1 bets 29
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=42][maxRaise=42] 
+P2 calls
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (774) [9h Tc As Qc] [8c]
+Legal actions: Check [player=P2] LegalBet [player=P2][minBet=2][maxBet=13] 
+P2 checks
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=13] 
+P1 bets 2
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=13] 
+P2 folds
+Uncalled bet of 2 returned to P1
+P1 wins the pot (774)
+
+Hand #84, P2 (2367), P1 (-2367)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [4h As]
+Dealt to P1 [5d 4d]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #85, P1 (-2366), P2 (2366)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Kc 8s]
+Dealt to P2 [7s 7d]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 267
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 raises to 400
+Legal actions: Fold [player=P1] Call [player=P1] 
+P1 folds
+Uncalled bet of 133 returned to P2
+P2 wins the pot (534)
+
+Hand #86, P2 (2633), P1 (-2633)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Ts Jd]
+Dealt to P1 [4h Qs]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 folds
+P1 wins the pot (3)
+
+Hand #87, P1 (-2632), P2 (2632)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [6s 2c]
+Dealt to P2 [8s 5s]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 138
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=274][maxRaise=400] 
+P1 folds
+Uncalled bet of 136 returned to P2
+P2 wins the pot (4)
+
+Hand #88, P2 (2634), P1 (-2634)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [8h 7d]
+Dealt to P1 [9d 6s]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 165
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=328][maxRaise=400] 
+P2 raises to 369
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 raises to 400
+Legal actions: Fold [player=P2] Call [player=P2] 
+P2 folds
+Uncalled bet of 31 returned to P1
+P1 wins the pot (738)
+
+Hand #89, P1 (-2265), P2 (2265)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Jc Kc]
+Dealt to P2 [5s 3s]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #90, P2 (2266), P1 (-2266)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [3d 4d]
+Dealt to P1 [Jh 7c]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 172
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=342][maxRaise=400] 
+P1 folds
+Uncalled bet of 170 returned to P2
+P2 wins the pot (4)
+
+Hand #91, P1 (-2268), P2 (2268)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Ks 2h]
+Dealt to P2 [5d 7h]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #92, P2 (2269), P1 (-2269)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [4c 6h]
+Dealt to P1 [5s 3c]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 checks
+Legal actions: Check [player=P1] Exchange [Hand=[5s, 3c],Player=P1] 
+P1 exchanges [5s, 3c] for [7d, 4s]
+Legal actions: Check [player=P2] Exchange [Hand=[4c, 6h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[7d, 4s],Player=P1] 
+P1 exchanges [7d, 4s] for [Qd, Kh]
+Legal actions: Check [player=P2] Exchange [Hand=[4c, 6h],Player=P2] 
+P2 checks
+Legal actions: Check [player=P1] Exchange [Hand=[Qd, Kh],Player=P1] 
+P1 exchanges [Qd, Kh] for [Ad, 5h]
+Legal actions: Check [player=P2] Exchange [Hand=[4c, 6h],Player=P2] 
+P2 exchanges [4c, 6h] for [8h, 9s]
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, 5h],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[8h, 9s],Player=P2] 
+P2 exchanges [8h, 9s] for [3s, 9d]
+Legal actions: Check [player=P1] Exchange [Hand=[Ad, 5h],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[3s, 9d],Player=P2] 
+P2 checks
+*** FLOP *** (24) [Tc Jd 3h]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=384] 
+P1 bets 290
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=384][maxRaise=384] 
+P2 raises to 384
+Legal actions: Fold [player=P1] Call [player=P1] 
+P1 folds
+Uncalled bet of 94 returned to P2
+P2 wins the pot (604)
+
+Hand #93, P1 (-2575), P2 (2575)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Jd 9c]
+Dealt to P2 [Kh As]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 217
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 raises to 400
+Legal actions: Fold [player=P1] Call [player=P1] 
+P1 calls
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** FLOP *** (800) [Kc Kd 4h]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** TURN *** (800) [Kc Kd 4h] [2d]
+Legal actions: Check [player=P2] 
+P2 checks
+Legal actions: Check [player=P1] 
+P1 checks
+*** RIVER *** (800) [Kc Kd 4h 2d] [7d]
+P1 shows [Jd 9c]
+P2 shows [Kh As]
+P2 wins the pot (800)
+
+Hand #94, P2 (2975), P1 (-2975)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [9s 5s]
+Dealt to P1 [2s 7d]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 364
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 folds
+Uncalled bet of 362 returned to P2
+P2 wins the pot (4)
+
+Hand #95, P1 (-2977), P2 (2977)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [5s 8c]
+Dealt to P2 [3s Qs]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 calls
+Legal actions: Check [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 262
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=400][maxRaise=400] 
+P1 folds
+Uncalled bet of 260 returned to P2
+P2 wins the pot (4)
+
+Hand #96, P2 (2979), P1 (-2979)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [3d Tc]
+Dealt to P1 [Ah 9s]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 79
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=156][maxRaise=400] 
+P1 folds
+Uncalled bet of 77 returned to P2
+P2 wins the pot (4)
+
+Hand #97, P1 (-2981), P2 (2981)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Qh 7h]
+Dealt to P2 [5s Tc]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 261
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 folds
+Uncalled bet of 259 returned to P1
+P1 wins the pot (4)
+
+Hand #98, P2 (2979), P1 (-2979)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Js Jh]
+Dealt to P1 [Th 8d]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 raises to 154
+Legal actions: Fold [player=P1] Call [player=P1] LegalRaise [player=P1][minRaise=306][maxRaise=400] 
+P1 raises to 358
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 folds
+Uncalled bet of 204 returned to P1
+P1 wins the pot (308)
+
+Hand #99, P1 (-2825), P2 (2825)
+P1 posts the blind of 1
+P2 posts the blind of 2
+Dealt to P1 [Ks 4h]
+Dealt to P2 [7d Jc]
+Legal actions: Call [player=P1] Fold [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 folds
+P2 wins the pot (3)
+
+Hand #100, P2 (2826), P1 (-2826)
+P2 posts the blind of 1
+P1 posts the blind of 2
+Dealt to P2 [Ah 4d]
+Dealt to P1 [6s Qs]
+Legal actions: Call [player=P2] Fold [player=P2] LegalRaise [player=P2][minRaise=4][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] LegalRaise [player=P1][minRaise=4][maxRaise=400] 
+P1 raises to 302
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=400][maxRaise=400] 
+P2 calls
+Legal actions: Check [player=P1] Exchange [Hand=[6s, Qs],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Ah, 4d],Player=P2] 
+P2 checks
+*** FLOP *** (604) [Ad 4c Tc]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=98] 
+P1 bets 40
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=80][maxRaise=98] 
+P2 calls
+Legal actions: Check [player=P1] Exchange [Hand=[6s, Qs],Player=P1] 
+P1 checks
+Legal actions: Check [player=P2] Exchange [Hand=[Ah, 4d],Player=P2] 
+P2 checks
+*** TURN *** (684) [Ad 4c Tc] [3h]
+Legal actions: Check [player=P1] LegalBet [player=P1][minBet=2][maxBet=58] 
+P1 bets 19
+Legal actions: Fold [player=P2] Call [player=P2] LegalRaise [player=P2][minRaise=38][maxRaise=58] 
+P2 folds
+Uncalled bet of 19 returned to P1
+P1 wins the pot (684)
+
+FINAL: P1 (-2484) P2 (2484)
