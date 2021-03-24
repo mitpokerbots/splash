@@ -114,6 +114,8 @@ img {
   grid-auto-rows: 1fr;
   grid-gap: 20px;
   padding-bottom: 40px; }
+  .team.grid .alumni img {
+    filter: grayscale(1) contrast(0.8); }
 
 .team.grid::before {
   content: "";
