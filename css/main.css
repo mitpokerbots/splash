@@ -150,6 +150,8 @@ img {
     font-size: 1.5em; }
   .team.single .position {
     font-weight: bold; }
+  .team.single:hover {
+    opacity:  0.75; }
 
 @media screen and (max-width: 730px) {
   .team.grid {
