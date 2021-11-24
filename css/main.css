@@ -141,6 +141,8 @@ img {
     background-position: center;
     background-size: cover;
     filter: contrast(0.8); }
+  .team.single img:hover {
+    opacity:  0.75; }
   .team.single .about {
     text-align: left;
     position: absolute;
@@ -150,8 +152,6 @@ img {
     font-size: 1.5em; }
   .team.single .position {
     font-weight: bold; }
-  .team.single:hover {
-    opacity:  0.75; }
 
 @media screen and (max-width: 730px) {
   .team.grid {
