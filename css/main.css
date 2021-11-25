@@ -114,6 +114,8 @@ img {
   grid-auto-rows: 1fr;
   grid-gap: 20px;
   padding-bottom: 40px; }
+  .team.grid .alumni img {
+    filter: grayscale(1) contrast(0.8); }
 
 .team.grid::before {
   content: "";
@@ -137,13 +139,10 @@ img {
     width: 100%;
     height: 100%;
     background-position: center;
-    background-size: cover; }
+    background-size: cover;
+    filter: contrast(0.8); }
   .team.single img:hover {
     opacity:  0.6; }
-  .team.single .alumni img {
-    filter: grayscale(1); }
-  .team.single .alumni img:hover {
-    filter: grayscale(0); }
   .team.single .about {
     text-align: left;
     position: absolute;
