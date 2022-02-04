@@ -143,8 +143,6 @@ img {
     background-position: center;
     background-size: cover;
     filter: contrast(0.8); }
-  .team.single img:hover {
-    opacity:  0.6; }
   .team.single .about {
     text-align: left;
     position: absolute;
