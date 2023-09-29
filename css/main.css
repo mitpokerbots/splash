@@ -1,7 +1,6 @@
 body {
   font-family: "Lato", sans-serif;
   font-weight: 300;
-  padding-bottom: 50px;
 }
 
 p {
@@ -176,7 +175,7 @@ img {
 }
 
 footer {
-  height: 100px;
+  height: 120px;
   padding-top: 10px;
 }
 
