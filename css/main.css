@@ -123,6 +123,10 @@ img {
   background-color: #000E1F; /* Dark navy blue background */
   color: #fff; /* White text */
   font-size: 2em;
+  width: 100%; /* Make the banner go across the whole page */
+  position: relative; /* Center the banner */
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .team.grid::before {
