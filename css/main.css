@@ -115,7 +115,23 @@ img {
   grid-gap: 20px;
   padding-bottom: 40px; }
   .team.grid .alumni img {
-    filter: grayscale(1) contrast(0.8); }
+    filter: grayscale(0) contrast(0.8); }
+
+.banner {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #000E1F; /* Dark navy blue background */
+  color: #fff; /* White text */
+  font-family: "Raleway", sans-serif; /* Same font as .title */
+  font-weight: 500; /* Same font weight as .title */
+  font-size: 3em; /* Same font size as .title */
+  line-height: 1.5em; /* Same line height as .title */
+  width: 100%; /* Make the banner go across the whole page */
+  position: relative; /* Center the banner */
+  left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: 5vh; /* Same margin as .title */
+}
 
 .team.grid::before {
   content: "";
