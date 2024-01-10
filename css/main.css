@@ -90,6 +90,14 @@ img {
   margin-top: 20px;
 }
 
+.gold {
+  border-top: 4px #c29a36;
+}
+
+.silver {
+  border-top: 4px #82969a;
+}
+
 .platinum img {
   margin: 20px;
   max-height: 25vh;
@@ -100,14 +108,12 @@ img {
   margin: 20px;
   max-height: 12vh;
   max-width: 30%;
-  border-top: 4px #c29a36;
 }
 
 .silver img {
   margin: 20px;
   max-height: 9vh;
   max-width: 15%;
-  border-top: 4px #82969a;
 }
 
 .team.grid {
