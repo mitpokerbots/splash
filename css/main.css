@@ -91,11 +91,11 @@ img {
 }
 
 .gold {
-  border-top: 4px #c29a36;
+  border-top: 4px solid #c29a36;
 }
 
 .silver {
-  border-top: 4px #82969a;
+  border-top: 4px solid #82969a;
 }
 
 .platinum img {
