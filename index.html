@@ -1,267 +1,329 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>MIT Pokerbots 2024</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" href="img/favicon.ico">
 
-    <link href="https://fonts.googleapis.com/css?family=Raleway:500" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css">
+<head>
+  <title>MIT Pokerbots 2024</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="img/favicon.ico">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css"/>
-    <link rel="stylesheet" href="css/main.css">
+  <link href="https://fonts.googleapis.com/css?family=Raleway:500" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css">
 
-    <meta property="og:url" content="https://pokerbots.org" />
-    <meta property="og:title" content="Pokerbots 2023" />
-    <meta property="og:description" content="Pre-registration for 6.176 Pokerbots opens soon!" />
-    <meta property="og:image" content="https://pokerbots.org/img/banner.png" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta property="og:url" content="https://pokerbots.org" />
+  <meta property="og:title" content="Pokerbots 2023" />
+  <meta property="og:description" content="Pre-registration for 6.176 Pokerbots opens soon!" />
+  <meta property="og:image" content="https://pokerbots.org/img/banner.png" />
 
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
-    <script src="js/elevator.min.js"></script>
-    <script src="js/main.js"></script>
-  </head>
-  <body class="pushable">
-    <div class="pusher">
-      <section id="main" class="dark center">
-        <div class="ui container">
-          <img id="logo" src="img/logo_clear.svg" onerror="this.onerror=null; this.src='img/logo_clear.png'" class="logo">
-          <div id="maintitle" class="title">Pokerbots</div>
-          <div class="text">
-            <!-- <p>Pokerbots 2024 registration is <a href="https://pkr.bot/register">live</a>!</p>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+  <script src="js/elevator.min.js"></script>
+  <script src="js/main.js"></script>
+</head>
+
+<body class="pushable">
+  <div class="pusher">
+    <section id="main" class="dark center">
+
+      <img id="logo" src="img/logo_clear.svg" onerror="this.onerror=null; this.src='img/logo_clear.png'" class="logo">
+      <img src="img/pokerbots_no_background.png" style="width: 30%; position: absolute; top:25px; left: 250px; transform: rotate3d(2,2,1, -15deg);">
+
+      <img src="img/pokerbots (2).png" style="width: 30%; position: absolute; top:25px; left: 750px; transform: rotate3d(2,2,1, 15deg);">
+
+      <!-- <div class="ui container"> -->
+        <!-- <div class="dubhacks-letters" data-ix="top" style="transition: all;"><img
+            src="https://uploads-ssl.webflow.com/5b7b3f107e58f1eb5ce439c4/5b7b3f107e58f14458e439ed_header_D.svg"
+            width="239" data-w-id="6a6d16c1-c738-7d05-b80d-dbecfdab4e8f"
+            style="opacity: 1; transform-origin: 50% 50%; transform: translate3d(0px, -0.003px, 0px);" alt=""
+            class="letter-d"><img
+            src="https://uploads-ssl.webflow.com/5b7b3f107e58f1eb5ce439c4/5b7b3f107e58f1cb19e439f1_header_U.svg"
+            width="204" data-w-id="6a6d16c1-c738-7d05-b80d-dbecfdab4e90"
+            style="opacity: 1; transform-origin: 50% 50%; transform: translate3d(0px, -0.003px, 0px);" alt=""
+            class="letter-u"><img
+            src="https://uploads-ssl.webflow.com/5b7b3f107e58f1eb5ce439c4/5b7b3f107e58f10b7fe439ee_header_B.svg"
+            width="211" data-w-id="6a6d16c1-c738-7d05-b80d-dbecfdab4e91"
+            style="opacity: 1; transform-origin: 50% 50%; transform: translate(0px, 0px);" alt="" class="letter-b"><img
+            src="https://uploads-ssl.webflow.com/5b7b3f107e58f1eb5ce439c4/5b7b3f107e58f183b2e439ef_header_H.svg"
+            width="225" data-w-id="6a6d16c1-c738-7d05-b80d-dbecfdab4e92"
+            style="opacity: 1; transform-origin: 50% 50%; transform: translate3d(0px, -0.003px, 0px);" alt=""
+            class="letter-h"><img
+            src="https://uploads-ssl.webflow.com/5b7b3f107e58f1eb5ce439c4/5b7b3f107e58f14422e439eb_header_A.svg"
+            width="194" data-w-id="6a6d16c1-c738-7d05-b80d-dbecfdab4e93"
+            style="opacity: 1; transform-origin: 50% 50%; transform: translate(0px, 0px);" alt="" class="letter-a"><img
+            src="https://uploads-ssl.webflow.com/5b7b3f107e58f1eb5ce439c4/5b7b3f107e58f19d93e439ec_header_C.svg"
+            width="220" data-w-id="6a6d16c1-c738-7d05-b80d-dbecfdab4e94"
+            style="opacity: 1; transform-origin: 50% 50%; transform: translate(0px, 0px);" alt="" class="letter-c"><img
+            src="https://uploads-ssl.webflow.com/5b7b3f107e58f1eb5ce439c4/5b7b3f107e58f12b5ae439f0_header_K.svg"
+            width="220" data-w-id="6a6d16c1-c738-7d05-b80d-dbecfdab4e95"
+            style="opacity: 1; transform-origin: 50% 50%; transform: translate3d(0px, 0px, 0px);" alt=""
+            class="letter-k"><img
+            src="https://uploads-ssl.webflow.com/5b7b3f107e58f1eb5ce439c4/5b7b3f107e58f1d857e439f2_header_S.svg"
+            width="179" data-w-id="6a6d16c1-c738-7d05-b80d-dbecfdab4e96"
+            style="opacity: 1; transform-origin: 50% 50%; transform: translate3d(0px, -0.004px, 0px);" alt=""
+            class="letter-s"></div> -->
+            <img src="img/bg1.png" class="mitbg">
+        
+      <div class="front ui container">
+                <div id="maintitle" class="title">new season coming soon</div>
+        <div class="text">
+          <!-- <p>Pokerbots 2024 registration is <a href="https://pkr.bot/register">live</a>!</p>
             <p>Schedule can be accessed <a href="/img/2024schedule.png">here</a></p>
             <p>Lectures are from 12-1:30 in 6-120!</p> -->
-            <!-- <p> Pre-registration for Pokerbots 2023 is open! </p> -->
-            <!-- <p> Play Blotto and LUPI down below! Get your submissions in before December 12th at 11:00pm EST. </p> -->
-            <!-- Pre-registration for Pokerbots IAP 2023 opening soon! Info sessions: -->
-            <!-- Get hype for our Final Event on Friday, February 3rd, from 4:30 - 7:00pm EST!<br> -->
-            <!-- Check out a recording of our info session <a href="https://pkr.bot/info-session-recording" style="color:white;text-decoration:underline">here</a>!<br> -->
-            <p>Thank you for participating in Pokerbots 2024! </p> 
-            <p>Stay tuned for next year</p>
-            <!-- <p>Submission data is now available <a href="https://pkr.bot/blotto-results" style="color:white;text-decoration:underline">here</a>.</p> -->
-          </div>
-          <!-- <div class="text">
+          <!-- <p> Pre-registration for Pokerbots 2023 is open! </p> -->
+          <!-- <p> Play Blotto and LUPI down below! Get your submissions in before December 12th at 11:00pm EST. </p> -->
+          <!-- Pre-registration for Pokerbots IAP 2023 opening soon! Info sessions: -->
+          <!-- Get hype for our Final Event on Friday, February 3rd, from 4:30 - 7:00pm EST!<br> -->
+          <!-- Check out a recording of our info session <a href="https://pkr.bot/info-session-recording" style="color:white;text-decoration:underline">here</a>!<br> -->
+          <!-- <p>Thank you for participating in Pokerbots 2024! </p>
+          <p>Stay tuned for next year</p> -->
+          <!-- <p>Submission data is now available <a href="https://pkr.bot/blotto-results" style="color:white;text-decoration:underline">here</a>.</p> -->
+        </div>
+        <!-- <div class="text">
             Thursday, December 1st, 7-8 PM in 4-163<br>
             Monday, December 5th, 7-8 PM in 4-163<br>
             Blotto Day: Wednesday, December 14th, 7-8 PM in 4-163
           </div> -->
-          <p>
-            <!-- <a class="ui button" href="https://pkr.bot/prereg">Pre-register</a> -->
-            <!-- <a class="ui button" href="https://pkr.bot/rsvp">Final Event RSVP</a> -->
-            <!-- <a class="ui button" href="https://pkr.bot/final-event">Final Event</a><br><br> -->
-            <!-- <a class="ui button" href="https://pkr.bot/piazza">Piazza</a> &nbsp;  -->
-              <!-- <a class="ui button" href="https://pkr.bot/resources">Class Resources</a> &nbsp; <a class="ui button" href="https://pkr.bot/scrimmage">Scrimmage Server</a> -->
-           <!-- <a class="ui button" href="https://pkr.bot/class">Lecture Zoom</a> &nbsp; <a class="ui button" href="https://pkr.bot/oh">Office Hours Zoom</a> -->
-            <!-- <a class="ui button" href="https://pkr.bot/blotto">Blotto</a>
+        <p>
+          <!-- <a class="ui button" href="https://pkr.bot/prereg">Pre-register</a> -->
+          <!-- <a class="ui button" href="https://pkr.bot/rsvp">Final Event RSVP</a> -->
+          <!-- <a class="ui button" href="https://pkr.bot/final-event">Final Event</a><br><br> -->
+          <!-- <a class="ui button" href="https://pkr.bot/piazza">Piazza</a> &nbsp;  -->
+          <!-- <a class="ui button" href="https://pkr.bot/resources">Class Resources</a> &nbsp; <a class="ui button" href="https://pkr.bot/scrimmage">Scrimmage Server</a> -->
+          <!-- <a class="ui button" href="https://pkr.bot/class">Lecture Zoom</a> &nbsp; <a class="ui button" href="https://pkr.bot/oh">Office Hours Zoom</a> -->
+          <!-- <a class="ui button" href="https://pkr.bot/blotto">Blotto</a>
             <a class="ui button" href="https://pkr.bot/lupi">L.U.P.I</a> -->
-            <!-- <a class="ui button" href="https://pkr.bot/info-session">Info Session Recording</a> -->
-          </p>
-          <a id="arrow" href="#info"><i class="inverted chevron down icon"></i></a>
+          <!-- <a class="ui button" href="https://pkr.bot/info-session">Info Session Recording</a> -->
+        </p>
+        <!-- <a id="arrow" href="#info"><i class="inverted chevron down icon"></i></a> -->
+      </div>
+      <!-- </div> -->
+    </section>
+    <section id="info" class="center">
+      <img src="img/diamond.svg" onerror="this.onerror=null; this.src='img/diamond.png'" class="bg right">
+      <div class="ui container">
+        <div class="title">What is Pokerbots?</div>
+        <div class="text">6.9630, or MIT Pokerbots, is a computerized poker tournament. Teams have one month to program
+          a completely autonomous pokerbot which competes against other bots in a unique poker variant.</div>
+        <div class="text">Competitors must learn and apply concepts in mathematics, computer science, and economics not
+          normally developed together in academic settings in order to conquer their opponents and emerge victorious.
         </div>
-      </section>
-      <section id="info" class="center">
-        <img src="img/diamond.svg" onerror="this.onerror=null; this.src='img/diamond.png'" class="bg right">
-        <div class="ui container">
-          <div class="title">What is Pokerbots?</div>
-          <div class="text">6.9630, or MIT Pokerbots, is a computerized poker tournament. Teams have one month to program a completely autonomous pokerbot which competes against other bots in a unique poker variant.</div>
-          <div class="text">Competitors must learn and apply concepts in mathematics, computer science, and economics not normally developed together in academic settings in order to conquer their opponents and emerge victorious.</div>
-          <div class="text">Last year's competition featured over $40,000 in prizes and attention from the most prestigious quantitative trading and technology firms. This IAP, channel your programming ability and strategic quantitative thinking skills to become the reigning Pokerbots champion!</div>
-        </div>
-      </section>
-      <section id="faq" class="blue">
-        <img src="img/club.svg" onerror="this.onerror=null; this.src='img/club.png'" class="bg left">
-        <div class="ui container">
-          <div class="title center">FAQ</div>
-          <div class="ui three column stackable grid">
-            <div class="row">
-              <div class="column">
-                <h2>Why Poker?</h2>
-                <p>As a game of incomplete information and uncertainty, poker is a prime application of the game theory concepts and decision making skills essential to trading. While traders make risk decisions based on the limited information they get from the markets, poker players make decisions based on hidden information as well, taking into account factors such as expected value and probability distributions.</p>
-              </div>
-              <div class="column">
-                <h2>I thought this was a programming competition? What language is it in?</h2>
-                <p>It is! To build a working pokerbot only requires both critical thinking ability and an eagerness to learn. However, an understanding of machine learning, algorithms, and data science can go a long way towards creating an advanced pokerbot. Competitiors can code in their choice of Python, Java, or C++.</p>
-              </div>
-              <div class="column">
-                <h2>Machine learning? Algorithms? Exactly how much coding experience is necessary?</h2>
-                <p>We welcome students with all levels of programming experience. Nevertheless, some previous coding experience would certainly be helpful. Although not necessary, we recommend you have at least one team member with some programming experience.</p>
-              </div>
+        <div class="text">Last year's competition featured over $40,000 in prizes and attention from the most
+          prestigious quantitative trading and technology firms. This IAP, channel your programming ability and
+          strategic quantitative thinking skills to become the reigning Pokerbots champion!</div>
+      </div>
+    </section>
+    <section id="faq" class="blue dark">
+      <img src="img/club.svg" onerror="this.onerror=null; this.src='img/club.png'" class="bg left">
+      <div class="ui container">
+        <div class="title center">FAQ</div>
+        <div class="ui three column stackable grid">
+          <div class="row">
+            <div class="column">
+              <h2>Why Poker?</h2>
+              <p>As a game of incomplete information and uncertainty, poker is a prime application of the game theory
+                concepts and decision making skills essential to trading. While traders make risk decisions based on the
+                limited information they get from the markets, poker players make decisions based on hidden information
+                as well, taking into account factors such as expected value and probability distributions.</p>
             </div>
-            <div class="row">
-              <div class="column">
-                <h2>What form of poker will it be?</h2>
-                <p>We are keeping the game and tournament structure secret. You will hear all about it during the challenge unveiling in early January 2024.</p>
-              </div>
-              <div class="column">
-                <h2>How many members can make up a team?</h2>
-                <p>Teams may be composed of 1-4 students.</p>
-              </div>
-              <div class="column">
-                <h2>How do I receive course credit?</h2>
-                <p>You will need to submit functioning pokerbots for various checkpoints throughout the course, as well as a short strategy report at the end of IAP.</p>
-              </div>
+            <div class="column">
+              <h2>I thought this was a programming competition? What language is it in?</h2>
+              <p>It is! To build a working pokerbot only requires both critical thinking ability and an eagerness to
+                learn. However, an understanding of machine learning, algorithms, and data science can go a long way
+                towards creating an advanced pokerbot. Competitiors can code in their choice of Python, Java, or C++.
+              </p>
             </div>
-            <div class="row">
-              <div class="column">
-                <h2>Do I have to be an MIT student to participate?</h2>
-                <p>For our course and tournament in January, you must be able to register for MIT IAP classes. If you are cross-registering, bring your papers in on the first day of class for us to sign. At least one member of your team must have MIT certificates to access our competition server.</p>
-              </div>
-              <div class="column">
-                <h2>How do I register?</h2>
-                <p>IAP pre-registration will open in December!</p>
-              </div>
-              <div class="column">
-                <h2>How much time will it take to make a pokerbot?</h2>
-                <p>Creating a functioning pokerbot takes no time at all. However, creating a competitive and strategic pokerbot will require more effort and experimentation. Ultimately, the more you put into your pokerbot, the more value you will receive from the class!</p>
-              </div>
+            <div class="column">
+              <h2>Machine learning? Algorithms? Exactly how much coding experience is necessary?</h2>
+              <p>We welcome students with all levels of programming experience. Nevertheless, some previous coding
+                experience would certainly be helpful. Although not necessary, we recommend you have at least one team
+                member with some programming experience.</p>
             </div>
           </div>
+          <div class="row">
+            <div class="column">
+              <h2>What form of poker will it be?</h2>
+              <p>We are keeping the game and tournament structure secret. You will hear all about it during the
+                challenge unveiling in early January 2024.</p>
+            </div>
+            <div class="column">
+              <h2>How many members can make up a team?</h2>
+              <p>Teams may be composed of 1-4 students.</p>
+            </div>
+            <div class="column">
+              <h2>How do I receive course credit?</h2>
+              <p>You will need to submit functioning pokerbots for various checkpoints throughout the course, as well as
+                a short strategy report at the end of IAP.</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="column">
+              <h2>Do I have to be an MIT student to participate?</h2>
+              <p>For our course and tournament in January, you must be able to register for MIT IAP classes. If you are
+                cross-registering, bring your papers in on the first day of class for us to sign. At least one member of
+                your team must have MIT certificates to access our competition server.</p>
+            </div>
+            <div class="column">
+              <h2>How do I register?</h2>
+              <p>IAP pre-registration will open in December!</p>
+            </div>
+            <div class="column">
+              <h2>How much time will it take to make a pokerbot?</h2>
+              <p>Creating a functioning pokerbot takes no time at all. However, creating a competitive and strategic
+                pokerbot will require more effort and experimentation. Ultimately, the more you put into your pokerbot,
+                the more value you will receive from the class!</p>
+            </div>
+          </div>
         </div>
-      </section>
-      <section id="sponsors" class="center">
-        <img src="img/heart.svg" onerror="this.onerror=null; this.src='img/heart.png'" class="bg right">
-        <div class="ui container">
-          <div class="title">2024 Sponsors</div>
-          <div class="text">Interested in sponsoring? Send us an email at <a href="mailto:pokerbots-sponsor@mit.edu">pokerbots-sponsor@mit.edu</a>.</div>
-          <div class="platinum">
-             <a href="https://www.hudsonrivertrading.com"><img src="img/logos/2022_Platinum_HRT.png" width="193" height="150"></a>
-            <a href="https://www.jumptrading.com/"><img src="img/logos/2022_Gold_JumpTrading.png" height="150"></a>
-             <a href="https://www.virtu.com/"><img src="img/logos/2025_Platinum_Virtu.png" height="130"></a>
+      </div>
+    </section>
+    <section id="sponsors" class="center">
+      <img src="img/heart.svg" onerror="this.onerror=null; this.src='img/heart.png'" class="bg right">
+      <div class="ui container">
+        <div class="title">2024 Sponsors</div>
+        <div class="text">Interested in sponsoring? Send us an email at <a
+            href="mailto:pokerbots-sponsor@mit.edu">pokerbots-sponsor@mit.edu</a>.</div>
+        <div class="platinum">
+          <a href="https://www.hudsonrivertrading.com"><img src="img/logos/2022_Platinum_HRT.png" width="193"
+              height="150"></a>
+          <a href="https://www.jumptrading.com/"><img src="img/logos/2022_Gold_JumpTrading.png" height="150"></a>
+          <a href="https://www.virtu.com/"><img src="img/logos/2025_Platinum_Virtu.png" height="130"></a>
+        </div>
+        <div class="gold">
+          <!-- <a href="https://www.citadel.com"><img src="img/logos/2024_Gold_Citadel.png"></a> -->
+          <a href="https://www.drw.com"><img src="img/logos/2022_Gold_DRW.png" height="80"></a>
+          <a href="https://www.janestreet.com"><img src="img/logos/2024_Gold_JaneStreet.png"></a>
+          <!-- <a href="https://trexquant.com/"><img src="img/logos/2024_Gold_Trexquant2.png"></a> -->
+          <!-- <a href="https://www.seveneightcapital.com/"><img src="img/logos/Gold_SevenEight.jpg"></a> -->
+          <!-- <a href="https://fiverings.com/"><img src="img/logos/2024_Gold_FiveRings.png"></a> -->
+        </div>
+        <div class="silver">
+          <a href="https://www.sig.com"><img src="img/logos/2022_Gold_SIG.jpg"></a>
+          <!-- <a href="https://akunacapital.com/"><img src="img/logos/2024_Silver_Akuna.png"></a> -->
+          <a href="https://www.chicagotrading.com"><img src="img/logos/2024_Silver_CTC.jpg"></a>
+          <!-- <a href="https://www.hap-capital.com/"><img src="img/logos/2022_Platinum_HAP.png"</a> -->
+          <!-- <a href="https://www.imc.com"><img src="img/logos/Gold_IMC.png"></a> -->
+          <a href="https://www.twosigma.com"><img src="img/logos/2024_Silver_TwoSigma.jpg"></a>
+        </div>
+      </div>
+    </section>
+    <section id="contact" class="dark center">
+      <img src="img/spade.svg" onerror="this.onerror=null; this.src='img/spade.png'" class="bg left">
+      <div class="ui container">
+        <div class="title">Meet the team!</div>
+        <div class="team grid">
+          <div class="team single">
+            <img src="img/headshots/alex_inf.png">
+            <div class="about">
+              <div class="name"><strong>Alexander Zhang '26</strong></div>
+              <div class="position">Co-President</div>
+            </div>
           </div>
-          <div class="gold">
-            <!-- <a href="https://www.citadel.com"><img src="img/logos/2024_Gold_Citadel.png"></a> -->
-            <a href="https://www.drw.com"><img src="img/logos/2022_Gold_DRW.png" height="80"></a>
-            <a href="https://www.janestreet.com"><img src="img/logos/2024_Gold_JaneStreet.png"></a>
-            <!-- <a href="https://trexquant.com/"><img src="img/logos/2024_Gold_Trexquant2.png"></a> -->
-            <!-- <a href="https://www.seveneightcapital.com/"><img src="img/logos/Gold_SevenEight.jpg"></a> -->
-            <!-- <a href="https://fiverings.com/"><img src="img/logos/2024_Gold_FiveRings.png"></a> -->
+          <div class="team single">
+            <img src="img/headshots/jacobj.png">
+            <div class="about">
+              <div class="name"><strong>Jacob Jobraeel '27</strong></div>
+              <div class="position">Co-President</div>
+            </div>
           </div>
-          <div class="silver">
-            <a href="https://www.sig.com"><img src="img/logos/2022_Gold_SIG.jpg"></a>
-            <!-- <a href="https://akunacapital.com/"><img src="img/logos/2024_Silver_Akuna.png"></a> -->
-            <a href="https://www.chicagotrading.com"><img src="img/logos/2024_Silver_CTC.jpg"></a>
-            <!-- <a href="https://www.hap-capital.com/"><img src="img/logos/2022_Platinum_HAP.png"</a> -->
-            <!-- <a href="https://www.imc.com"><img src="img/logos/Gold_IMC.png"></a> -->
-            <a href="https://www.twosigma.com"><img src="img/logos/2024_Silver_TwoSigma.jpg"></a>
+          <div class="team single">
+            <img src="img/headshots/gaurab.png">
+            <div class="about">
+              <div class="name"><strong>Gaurab Das '25</strong></div>
+              <div class="position">Vice President</div>
+            </div>
+          </div>
+          <div class="team single">
+            <img src="img/headshots/jacob.jpg">
+            <div class="about">
+              <div class="name"><strong>Jacob David '26</strong></div>
+              <div class="position">Head Instructor</div>
+            </div>
+          </div>
+          <div class="team single">
+            <img src="img/headshots/sri.png">
+            <div class="about">
+              <div class="name"><strong>Sri Saraf '26</strong></div>
+              <div class="position">Server Lead</div>
+            </div>
+          </div>
+          <div class="team single">
+            <img src="img/headshots/sejal.png">
+            <div class="about">
+              <div class="name"><strong>Sejal Rathi '26</strong></div>
+              <div class="position">Engine Lead</div>
+            </div>
+          </div>
+          <div class="team single">
+            <img src="img/headshots/sam.png">
+            <div class="about">
+              <div class="name"><strong>Sam Zhou '27</strong></div>
+              <div class="position">Tech Lead</div>
+            </div>
+          </div>
+          <div class="team single">
+            <img src="img/headshots/paco.png">
+            <div class="about">
+              <div class="name"><strong>Paco Gomez '26</strong></div>
+              <div class="position">Engine Developer</div>
+            </div>
+          </div>
+          <div class="team single">
+            <img src="img/headshots/steve.jpg">
+            <div class="about">
+              <div class="name"><strong>Steve Zhang '28</strong></div>
+              <div class="position">Sponsorship Director</div>
+            </div>
+          </div>
+          <div class="team single">
+            <img src="img/headshots/bobby_square.png">
+            <div class="about">
+              <div class="name"><strong>Bobby Costin '28</strong></div>
+              <div class="position">Treasurer</div>
+            </div>
           </div>
         </div>
-      </section>
-      <section id="contact" class="dark center">
-        <img src="img/spade.svg" onerror="this.onerror=null; this.src='img/spade.png'" class="bg left">
         <div class="ui container">
-          <div class="title">Meet the team!</div>
+          <div class="banner">Alumni</div>
           <div class="team grid">
+            <!-- Alumni members here -->
             <div class="team single">
-              <img src="img/headshots/alex_inf.png">
+              <img src="img/headshots/dylan.jpg">
               <div class="about">
-                <div class="name"><strong>Alexander Zhang '26</strong></div>
-                <div class="position">Co-President</div>
+                <div class="name"><strong>Dylan Dong '24</strong></div>
+                <div class="position">Vice President (2024)</div>
               </div>
             </div>
-            <div class="team single">
-              <img src="img/headshots/jacobj.png">
+            <div class="team single alumni">
+              <img src="img/headshots/matt.jpg">
               <div class="about">
-                <div class="name"><strong>Jacob Jobraeel '27</strong></div>
-                <div class="position">Co-President</div>
+                <div class="name"><strong>Matt McManus '23</strong></div>
+                <div class="position">Co-President (2023)</div>
               </div>
             </div>
-            <div class="team single">
-              <img src="img/headshots/gaurab.png">
+            <div class="team single alumni">
+              <img src="img/headshots/Sophie.png">
               <div class="about">
-                <div class="name"><strong>Gaurab Das '25</strong></div>
-                <div class="position">Vice President</div>
+                <div class="name"><strong>Sophie Yang '24</strong></div>
+                <div class="position">Co-President (2023)</div>
               </div>
             </div>
-            <div class="team single">
-              <img src="img/headshots/jacob.jpg">
+            <div class="team single alumni">
+              <img src="img/headshots/arruda.jpg">
               <div class="about">
-                <div class="name"><strong>Jacob David '26</strong></div>
-                <div class="position">Head Instructor</div>
+                <div class="name"><strong>Gabriel Arruda '24</strong></div>
+                <div class="position">Teaching Assistant (2023)</div>
               </div>
             </div>
-            <div class="team single">
-              <img src="img/headshots/sri.png">
+            <div class="team single alumni">
+              <img src="img/headshots/max.jpg">
               <div class="about">
-                <div class="name"><strong>Sri Saraf '26</strong></div>
-                <div class="position">Server Lead</div>
+                <div class="name"><strong>Max Tan '25</strong></div>
+                <div class="position">Vice President (2023)</div>
               </div>
             </div>
-            <div class="team single">
-              <img src="img/headshots/sejal.png">
-              <div class="about">
-                <div class="name"><strong>Sejal Rathi '26</strong></div>
-                <div class="position">Engine Lead</div>
-              </div>
-            </div>
-            <div class="team single">
-              <img src="img/headshots/sam.png">
-              <div class="about">
-                <div class="name"><strong>Sam Zhou '27</strong></div>
-                <div class="position">Tech Lead</div>
-              </div>
-            </div>
-            <div class="team single">
-              <img src="img/headshots/paco.png">
-              <div class="about">
-                <div class="name"><strong>Paco Gomez '26</strong></div>
-                <div class="position">Engine Developer</div>
-              </div>
-            </div>
-            <div class="team single">
-              <img src="img/headshots/steve.jpg">
-              <div class="about">
-                <div class="name"><strong>Steve Zhang '28</strong></div>
-                <div class="position">Sponsorship Director</div>
-              </div>
-            </div>
-            <div class="team single">
-              <img src="img/headshots/bobby_square.png">
-              <div class="about">
-                <div class="name"><strong>Bobby Costin '28</strong></div>
-                <div class="position">Treasurer</div>
-              </div>
-            </div>
-          </div>
-          <div class="ui container">
-            <div class="banner">Alumni</div>
-            <div class="team grid">
-              <!-- Alumni members here -->
-              <div class="team single">
-                <img src="img/headshots/dylan.jpg">
-                <div class="about">
-                  <div class="name"><strong>Dylan Dong '24</strong></div>
-                  <div class="position">Vice President (2024)</div>
-                </div>
-              </div>
-              <div class="team single alumni">
-                <img src="img/headshots/matt.jpg">
-                <div class="about">
-                  <div class="name"><strong>Matt McManus '23</strong></div>
-                  <div class="position">Co-President (2023)</div>
-                </div>
-              </div>
-              <div class="team single alumni">
-                <img src="img/headshots/Sophie.png">
-                <div class="about">
-                  <div class="name"><strong>Sophie Yang '24</strong></div>
-                  <div class="position">Co-President (2023)</div>
-                </div>
-              </div>
-              <div class="team single alumni">
-                <img src="img/headshots/arruda.jpg">
-                <div class="about">
-                  <div class="name"><strong>Gabriel Arruda '24</strong></div>
-                  <div class="position">Teaching Assistant (2023)</div>
-                </div>
-              </div>
-              <div class="team single alumni">
-                <img src="img/headshots/max.jpg">
-                <div class="about">
-                  <div class="name"><strong>Max Tan '25</strong></div>
-                  <div class="position">Vice President (2023)</div>
-                </div>
-              </div>
             <div class="team single alumni">
               <img src="img/headshots/alumni/haijia.jpg">
               <div class="about">
@@ -355,9 +417,13 @@
             </div>
           </div>
           <div class="text">Question? Comments? Concerns? We'd love to hear from you.</div>
-          <div class="text">You can reach the Pokerbots Team at <a href="mailto:pokerbots@mit.edu">pokerbots@mit.edu</a>.</div>
+          <div class="text">You can reach the Pokerbots Team at <a
+              href="mailto:pokerbots@mit.edu">pokerbots@mit.edu</a>.</div>
         </div>
-      </section>
+    </section>
+
+    <!-- <section class="center"> -->
+     
       <footer class="dark center">
         <div class="icons">
           <a href="mailto:pokerbots@mit.edu"><i class="envelope icon"></i></a>
@@ -375,7 +441,9 @@
           <a id="elevator" href="#">Back to top</a>
         </div>
       </footer>
+    <!-- </section> -->
 
-    </div>
-  </body>
+  </div>
+</body>
+
 </html>
