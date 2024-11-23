@@ -68,6 +68,24 @@ section.blue, footer.blue {
   font-size: 1.5em;
   line-height: 1.5em;
 }
+.text2 {
+  margin-bottom: 2vh;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  text-align: left;
+}
+.text3 {
+  margin-bottom: 2vh;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  text-align: right;
+}
+.text4 {
+  margin-top: 20px;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  text-align: right;
+}
 
 .logo {
   max-width: 10vw;
@@ -94,17 +112,87 @@ section.blue, footer.blue {
 .front {
   position: relative;
   z-index: 1;
+  left:-7%;
+  margin-top:6%;
 }
+/* .mitbg {
+  position: relative;
+  display: inline-block;
+  width: 100%; 
+} */
+.floating {
+  position: relative; /* Ensure it's positioned relative for animation */
+  animation: float 3s ease-in-out infinite; /* Apply the animation */
+}
+.floating2 {
+  position: relative; /* Ensure it's positioned relative for animation */
+  animation: float2 4s ease-in-out infinite; /* Apply the animation */
+}
+.newimage{
+  float: left;
+  margin: 20px;
+}
+.newimage2{
+  float: right;
+
+  margin: 20px;
+}
+@keyframes float {
+  0% {
+    transform: translateY(0); /* Start at original position */
+  }
+  50% {
+    transform: translateY(-15px); /* Move up by 10px */
+  }
+  100% {
+    transform: translateY(0); /* Return to original position */
+  }
+}
+@keyframes float2 {
+  0% {
+    transform: translateY(0); /* Start at original position */
+  }
+  50% {
+    transform: translateY(-10px); /* Move up by 10px */
+  }
+  100% {
+    transform: translateY(0); /* Return to original position */
+  }
+}
+
 .mitbg {
   position: absolute;
   z-index: 0;
   bottom: 0;
   width: 100%;
-  opacity: 0.15;
+  opacity: 0.3;
   left: 0;
   /* top:0; */
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
 }
+/* .mitbgg{
+  background: 
+    linear-gradient(to bottom, rgba(0, 14, 31, 0), rgba(255, 255, 255, 0)),
+    url('/img/bg1.png');
 
+  background-size: 100%;
+   width: 100%;
+} */
+/* .mitbg::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, rgba(255, 0, 0, 0.5), rgba(255, 255, 255, 0) 50%);
+  pointer-events: none; /* So the gradient doesn't block interactions with the image */
+} */
 .bg.right {
   right: 0;
 }
